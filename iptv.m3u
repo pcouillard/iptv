@@ -130,7 +130,7 @@ https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 https://cheddar-news12ny-1-us.plex.wurl.tv/de6071b3dac05dabde5ea0ab4f80a010.m3u8
 #EXTINF:0 tvg-id="" tvg-country="FR" tvg-logo="https://www.lfmtv.ch/wp-content/uploads/2017/02/logo_v02-2.png" group-title="Français",LFM TV
 https://edge17.vedge.infomaniak.com/livecast/lfmmd/chunklist_w164198439.m3u8
-#EXTINF:0 tvg-country="CA" tvg-logo="http://192.168.1.19/data/soucisse.png" group-title="Radio",Soucisse et Cie
+#EXTINF:0 tvg-country="CA" tvg-logo="http://24.49.232.69/data/soucisse.png" group-title="Radio",Soucisse et Cie
 http://24.49.232.69:8000/_a
 #EXTINF:-1 tvg-id="ZTele" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/z_tele_ca.png" group-title="Québec",Z TELE (HD)
 http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156101
