@@ -729,7 +729,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/mai
 #EXTINF:-1 tvg-id="espnplus.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_lam_plus_br.png" group-title="Sports",ESPN+ (Freecatv)
 http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
 #EXTINF:-1 tvg-id="fs1.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FOX SPORTS 1 HD (Freecatv)
-http://89.187.175.143:80/3056/index.m3u8
+http://server.sibfungold.info:8080/uhdsmart/arbzw5B9kv/1529
 #EXTINF:-1 tvg-id="fs2.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_2.png" group-title="Sports",FOX SPORTS 2 HD
 http://89.187.175.143:80/3028/index.m3u8
 #EXTINF:-1 tvg-id="beinextra.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_us.png" group-title="Sports",BEIN Xtra
@@ -740,3 +740,5 @@ http://89.187.175.143:80/3115/index.m3u8
 http://89.187.175.143:80/3113/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/l_equipe_fr.png" group-title="Français",L'EQUIPE
 http://callofliberty.fr/stream/LEQUIPE/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mvLY9FN.png" tvg-id="Pac12Networks.us" tvg-name="Pac-12 Network",Pac-12 Network HD
+http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2845.ts
