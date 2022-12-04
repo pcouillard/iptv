@@ -675,27 +675,25 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="matele.fr" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/matele-fr.png",Ma Télé France
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="6ter.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/6ter_fr.png",6Ter France
-https://raw.githubusercontent.com/Sibprod/streams/main/files/6Ter/master.m3u8
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96545.ts
 #EXTINF:-1 group-title="Français" tvg-id="w9.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/w9_fr.png",W9 France
-https://raw.githubusercontent.com/Sibprod/streams/main/files/W9/master.m3u8
+http://callofliberty.fr/stream/W9/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="tf1series.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1-series-films-fr.png",TF1 Séries France
 http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="tf1.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1.png",TF1 France
-https://raw.githubusercontent.com/Sibprod/streams/main/files/TF1/master.m3u8
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96514.ts
 #EXTINF:-1 group-title="Français" tvg-id="france2.fr" tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/France-2-Logo-tumb.png",France 2
-https://raw.githubusercontent.com/Sibprod/streams/main/files/France_2/master.m3u8
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96515.ts
 #EXTINF:-1 group-title="Français" tvg-id="france3.fr" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6840.1503848040.png",France 3
-https://raw.githubusercontent.com/Sibprod/streams/main/files/France_3/master.m3u8
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96517.ts
 #EXTINF:-1 group-title="Français" tvg-id="france4.fr" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/03/France-4-logo-carr%C3%A9.jpg",France 4
-https://raw.githubusercontent.com/Sibprod/streams/main/files/France_4/master.m3u8
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96519.ts
 #EXTINF:-1 group-title="Français" tvg-id="france5.fr" tvg-logo="https://xilam.com/wp-content/uploads/2017/10/France-5.png",France 5
-https://raw.githubusercontent.com/Sibprod/streams/main/files/France_5/master.m3u8
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96521.ts
 #EXTINF:0 tvg-id="M6.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m6_fr.png" group-title="Français",M6
-https://raw.githubusercontent.com/Sibprod/streams/main/files/M6/master.m3u8
-#EXTINF:0 tvg-id="M6inter.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m6_fr.png" group-title="Français",M6 International
-https://raw.githubusercontent.com/Sibprod/streams/main/files/M6_International/master.m3u8
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
 #EXTINF:0 tvg-id="TMC.fr" tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tmc_2016.png/150px-Tmc_2016.png" group-title="Français",TMC
-https://raw.githubusercontent.com/Sibprod/streams/main/files/TMC/master.m3u8
+https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="franceinfo.fr" tvg-logo="https://mouvement-europeen.eu/wp-content/uploads/2018/04/Logo-France-Info.png",France Info
 https://raw.githubusercontent.com/Sibprod/streams/main/files/France_Info/master_TV.m3u8
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/i24.png" group-title="Français", i24 News
@@ -707,7 +705,9 @@ http://www.callofliberty.fr/stream/c8/master.m3u8
 #EXTINF:-1 tvg-id="cherie25.fr" tvg-logo="https://mytelevision.tv/assets/img/chaines/cherie25.png" group-title="Français", Chérie 25
 http://livetv.ktv.zone/27/play.m3u8
 #EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2016/07/TV_FR_Teva.jpg" group-title="Français", Téva
-https://raw.githubusercontent.com/Sibprod/streams/main/files/Teva/master.m3u8
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96549.ts
+#EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/33.png" group-title="Français", 13eme Rue
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
 #EXTINF:-1 tvg-logo="" group-title="Français", RTS Un
 http://livetv.ktv.zone/1/play.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="Français", RTS Deux
@@ -719,9 +719,13 @@ http://37.235.38.139:4000/play/a00k
 #EXTINF:-1 group-title="Français" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/56/logo-lci-2020-min-a0978b-c7794e-0@3x.png",LCI
 https://raw.githubusercontent.com/Sibprod/streams/main/files/LCI/master.m3u8
 #EXTINF:0 tvg-id="gulli.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gulli_fr.png" group-title="Jeunesse",Gulli
-https://raw.githubusercontent.com/Sibprod/streams/main/files/Gulli/master.m3u8
+https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
 #EXTINF:-1 tvg-id="canalj.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_j_fr.png" group-title="Jeunesse", Canal J
-https://raw.githubusercontent.com/Sibprod/streams/main/files/Canal_J/master.m3u8
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96908.ts
+#EXTINF:-1 tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/cartoon_network_app_1024x1024.png" group-title="Jeunesse",Cartoon Network
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96904.ts
+#EXTINF:-1 tvg-logo="https://static.programacion-tdt.com/imgAPP/Boing.min.png" group-title="Jeunesse",Boing
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96902.ts
 #EXTINF:-1 tvg-id="gourmandtv.fr" tvg-country="FR" tvg-logo="https://pbs.twimg.com/media/EmY-yM7XEAEFb1v.png" group-title="Français", Gourmand TV
 https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
 #EXTINF:-1 tvg-id="maisonettravaux.fr" tvg-country="FR" tvg-logo="https://www.reworldmedia.com/wp-content/uploads/2021/10/MT.png" group-title="Français", Maison & Travaux
@@ -742,3 +746,11 @@ http://89.187.175.143:80/3113/index.m3u8
 http://callofliberty.fr/stream/LEQUIPE/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mvLY9FN.png" tvg-id="Pac12Networks.us" tvg-name="Pac-12 Network",Pac-12 Network HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2845.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="CANAL+",Cine+ Premier
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96654.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CANAL+",Cine+ Emotion
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96658.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CANAL+",Cine+ Frisson
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96656.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="CANAL+",Cine+ Club
+http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96662.ts
