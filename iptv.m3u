@@ -679,7 +679,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/6Ter/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="w9.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/w9_fr.png",W9 France
 https://raw.githubusercontent.com/Sibprod/streams/main/files/W9/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="tf1series.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1-series-films-fr.png",TF1 Séries France
-https://raw.githubusercontent.com/Sibprod/streams/main/files/TF1_Series_Films/master.m3u8
+http://gratuittv.free.fr/Files/tfsf/live/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="tf1.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1.png",TF1 France
 https://raw.githubusercontent.com/Sibprod/streams/main/files/TF1/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="france2.fr" tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/France-2-Logo-tumb.png",France 2
