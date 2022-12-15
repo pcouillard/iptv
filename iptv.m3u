@@ -651,7 +651,7 @@ https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m
 #EXTINF:0 tvg-id="TMC.fr" tvg-country="FR" tvg-logo="https://www.tntendirect.com/images/channel/tfx.png" group-title="Français",TFX
 https://s15.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM4OjUzIFBNJmhhc2hfdmFsdWU9YmtQOUM2QTY5M0JiVlAyekJvRTRwdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="franceinfo.fr" tvg-logo="https://mouvement-europeen.eu/wp-content/uploads/2018/04/Logo-France-Info.png",France Info
-https://raw.githubusercontent.com/Sibprod/streams/main/files/France_Info/master_TV.m3u8
+https://stream-01.sv4.dailymotion.com/sec(3uHXKsK7_-J9YIYIiNPgOHVyjlsGiQ4CTcrNKoQ3u2jiveL62tMbEn3AH096dQBA)/p/dm/3/x4rdeu6/d/live-3.m3u8#cell=lsv4
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/i24.png" group-title="Français", i24 News
 https://raw.githubusercontent.com/Sibprod/streams/main/files/i24_News_FR/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="cstar.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_star.png",CStar
