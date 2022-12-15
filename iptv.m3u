@@ -743,7 +743,7 @@ http://89.187.175.143:80/3115/index.m3u8
 #EXTINF:-1 tvg-id="foxsportnorth.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_global.png" group-title="Sports",FOX SPORTS NORTH HD
 http://89.187.175.143:80/3113/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/l_equipe_fr.png" group-title="Français",L'EQUIPE
-http://callofliberty.fr/stream/LEQUIPE/master.m3u8
+https://s15.tntendirect.com/lequipe21/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjQ1OjAxIFBNJmhhc2hfdmFsdWU9ekNQOXpnL0dQQ0ZTOUs5OFlkQS9MZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mvLY9FN.png" tvg-id="Pac12Networks.us" tvg-name="Pac-12 Network",Pac-12 Network HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2845.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="CANAL+",Cine+ Premier
