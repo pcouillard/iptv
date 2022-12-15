@@ -532,8 +532,6 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cmt.us.easte
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/discovery.channel.us.eastern.us.m3u8
 #EXTINF:-1 tvg-chno="172" tvg-id="AnimalPlanetEast.us" tvg-name="Animal Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Documentary",Animal Planet
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/animal.planet.us.east.us.m3u8
-#EXTINF:-1 tvg-chno="173" tvg-id="HGTVEast.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Home",HGTV
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c21039
 #EXTINF:-1 tvg-chno="175" tvg-id="CookingChannel.us" tvg-name="Cooking Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Home",Cooking Channel
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/the.cooking.channel.us.m3u8
 #EXTINF:-1 tvg-chno="176" tvg-id="TLCEast.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Home",TLC
@@ -548,44 +546,6 @@ https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8?checkedby:iptvc
 https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AF;DZ;BG;KH;CA;DK;FR;SA" tvg-logo="" group-title="Français",Rakuten Comedy Movies (720p)
 https://rakuten-comedymovies-7-fr.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports1.us.png",FOX SPORTS 1 HD
-http://89.187.175.143:80/3056/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/us/FoxSports2.us.png",FOX SPORTS 2 HD
-http://89.187.175.143:80/3028/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fox_sports_detroit.png/1200px-Fox_sports_detroit.png",FOX SPORTS DETROIT HD
-http://89.187.175.143:80/3115/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://img1.wikia.nocookie.net/__cb20121114013538/logopedia/images/d/de/Fox_sports_north_2012.png",FOX SPORTS NORTH HD
-http://89.187.175.143:80/3113/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/05/fox19.png",FOX NET MID
-http://89.187.175.143:80/4176/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2019/05/fox19.png",FOX NET EAST
-http://89.187.175.143:80/4175/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.dishpromotions.com/wp-content/uploads/ESPNU-logo.png",ESPN U HD
-http://89.187.175.143:80/3044/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i1.wp.com/www.txcable.com/wp-content/uploads/2014/07/sec_network_logo.png",SEC Network HD
-http://89.187.175.143:80/3054/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2020/08/altitude-sports-logo-1024x512.jpg",ALTITUDE SPORTS
-http://89.187.175.143:80/4164/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/mlb-network-us.png",MLB NETWORK HD
-http://89.187.175.143:80/3003/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://38.143.137.20/logo/prestige/United-States/golf_channel_us.png",NBC GOLF
-http://89.187.175.143:80/3013/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.soda.com/wp-content/uploads/2017/02/watch_ACC_Network_live_stream.jpg",ACC NETWORK HD
-http://89.187.175.143:80/3111/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://1.bp.blogspot.com/-DjkjclFC9rc/XzNOnkVAyHI/AAAAAAAAAtk/QZz81WNA5ZEnPs1AiY14BrHKrh6gTOIbQCLcBGAsYHQ/w200-h200/54%2BSny.png",SNY
-http://89.187.175.143:80/4091/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/02/Bally_Sports_san_diego-1024x576.png",Bally Sports San Diego
-http://89.187.175.143:80/4181/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="http://p2086.securepoint.io:2086/images/d9dd7dd44ebcfc4f306ad873759b25e9.png",MSG+ HD
-http://89.187.175.143:80/3064/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn1-2018.png",TSN1 HD
-http://89.187.175.143:80/3038/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png",TSN3 HD
-http://89.187.175.143:80/3046/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png",TSN4 HD
-http://89.187.175.143:80/3047/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png",TSN5 HD
-http://89.187.175.143:80/3048/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.emojiterra.com/google/android-nougat/512px/26f3.png",One Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://static.epg.best/ae/DubaiRacing.ae.png",RACING TV
