@@ -18,8 +18,6 @@ https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 #EXTINF:-1 tvg-id="I715.49584.zap2it.com" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png" group-title="Québec",ICI Radio-Canada Québec
 https://rcavlive.akamaized.net/hls/live/664045/cancbvt/master_3000.m3u8
-#EXTINF:-1 tvg-id="I715.49584.zap2it.com" tvg-logo="https://netflash.net/wp-content/uploads/2015/11/Tele_Quebec_HD.png" group-title="Québec",ICI Télé Québec [Alternate]
-https://raw.githubusercontent.com/Sibprod/streams/main/files/T%C3%A9l%C3%A9_Qu%C3%A9bec/master.m3u8
 #EXTINF:-1 tvg-id="I728.45864.zap2it.com" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png" group-title="Québec",ICI Radio-Canada Est (Geo-CA)
 https://rcavlive.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8
 #EXTINF:-1 tvg-id="I733.72984.zap2it.com" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-radio-canada-tele-ca.png" group-title="Québec",ICI Radio-Canada Ouest (Geo-CA)
