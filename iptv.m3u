@@ -719,7 +719,7 @@ http://37.235.38.139:4000/play/a00k
 #EXTINF:-1 group-title="Français" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/56/logo-lci-2020-min-a0978b-c7794e-0@3x.png",LCI
 https://raw.githubusercontent.com/Sibprod/streams/main/files/LCI/master.m3u8
 #EXTINF:0 tvg-id="gulli.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gulli_fr.png" group-title="Jeunesse",Gulli
-https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8
+https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/vMztcDc/index.m3u8
 #EXTINF:-1 tvg-id="canalj.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_j_fr.png" group-title="Jeunesse", Canal J
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96908.ts
 #EXTINF:-1 tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/cartoon_network_app_1024x1024.png" group-title="Jeunesse",Cartoon Network
