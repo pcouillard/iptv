@@ -426,10 +426,6 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/paramount.ne
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fx.networks.east.coast.us.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-id="BBCAmericaEast.us" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="USA",BBC America
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-chno="221" tvg-id="SundanceTVEast.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="USA",SundanceTV
-https://bcovlive-a.akamaihd.net/d2fcbeaead4b425fa13d4fec961fc47a/us-east-1/6240731308001/playlist.m3u8
-#EXTINF:-1 tvg-chno="222" tvg-id="LifetimeEast.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="USA",Lifetime
-http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20527
 #EXTINF:-1 tvg-chno="224" tvg-id="AEEast.us" tvg-name="A&E" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10035_dark_360w_270h.png" group-title="USA",A&E
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ae.us.eastern.us.m3u8
 #EXTINF:-1 tvg-chno="225" tvg-id="NationalGeographicEast.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary",National Geographic
