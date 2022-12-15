@@ -754,3 +754,5 @@ http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96658.ts
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96656.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="CANAL+",Cine+ Club
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96662.ts
+#EXTINF:-1 tvg-chno="255" tvg-id="SonyMoviesUSA.us" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
+https://m3u-editor.com/serve/xromtv-xrom-tv-2022-xromtv/712849288
