@@ -113,7 +113,7 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/wildside.png" group-title="Films",Wild Side
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/usa.png" group-title="USA",USA Network
-http://89.187.175.143:80/3025/mpegts
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/ion.png" group-title="USA",iON Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/acc-network-us.png" group-title="Sports",ACC Network
