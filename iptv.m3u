@@ -641,7 +641,7 @@ https://s15.tntendirect.com/france2/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 group-title="Français" tvg-id="france3.fr" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6840.1503848040.png",France 3
 https://s15.tntendirect.com/france3/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM1OjE0IFBNJmhhc2hfdmFsdWU9QVljQ0VaOS85TW11ZXhXaUdYUUhUQT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="france4.fr" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/03/France-4-logo-carr%C3%A9.jpg",France 4
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96519.ts
+https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="france5.fr" tvg-logo="https://xilam.com/wp-content/uploads/2017/10/France-5.png",France 5
 https://s13.tntendirect.com/france5/live/playlist.m3u8
 #EXTINF:0 tvg-id="M6.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m6_fr.png" group-title="Français",M6
