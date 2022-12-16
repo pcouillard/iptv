@@ -676,12 +676,8 @@ http://37.235.38.139:4000/play/a00k
 https://raw.githubusercontent.com/Sibprod/streams/main/files/LCI/master.m3u8
 #EXTINF:0 tvg-id="gulli.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gulli_fr.png" group-title="Jeunesse",Gulli
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/vMztcDc/index.m3u8
-#EXTINF:-1 tvg-id="canalj.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_j_fr.png" group-title="Jeunesse", Canal J
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96908.ts
-#EXTINF:-1 tvg-logo="https://irs.www.warnerbros.com/mobile-app-games-square-png/game/media/browser/cartoon_network_app_1024x1024.png" group-title="Jeunesse",Cartoon Network
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96904.ts
-#EXTINF:-1 tvg-logo="https://static.programacion-tdt.com/imgAPP/Boing.min.png" group-title="Jeunesse",Boing
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96902.ts
+#EXTINF:-1 tvg-id="supertoons.fr" tvg-logo="https://supertoons.bg/wp-content/uploads/2020/12/Logo-Small-2.png" group-title="Jeunesse", Supertoons TV
+https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="gourmandtv.fr" tvg-country="FR" tvg-logo="https://pbs.twimg.com/media/EmY-yM7XEAEFb1v.png" group-title="Français", Gourmand TV
 https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
 #EXTINF:-1 tvg-id="maisonettravaux.fr" tvg-country="FR" tvg-logo="https://www.reworldmedia.com/wp-content/uploads/2021/10/MT.png" group-title="Français", Maison & Travaux
