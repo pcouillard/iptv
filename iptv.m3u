@@ -97,7 +97,7 @@ https://bfmtvalive1-a.akamaihd.net/r13240d2722f04909a6698e7d03165c71/eu-central-
 #EXTINF:0 tvg-id="dwnews" tvg-country="DE" tvg-logo="https://rndserv.xyz/img/dw.png" group-title="Nouvelles",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-id="cnews" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_news.png" group-title="Nouvelles",CNews
-https://www.dailymotion.com/cdn/live/video/x3b68jn.m3u8?sec=nKDs9W0ByXCbfd8u9KpG0xfLADMJWWV8pAQx7pVsDQKjAW-32zTswxkMrmD4KCOAkv2AaZJKs1uSFMknBns13A&dmTs=522881&dmV1st=51AAAE0F4F015313A2424EA710E2E5FC
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/CNEWS
 #EXTINF:0 tvg-id="Reuters" tvg-country="US" tvg-logo="https://rndserv.xyz/img/reuters.png" group-title="Nouvelles",Reuters
 https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 #EXTINF:0 tvg-id="ABCNews" tvg-country="US" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/Abc-news-logo.png" group-title="Nouvelles",ABC News Live
