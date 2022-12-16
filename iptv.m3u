@@ -720,3 +720,7 @@ http://he11o.akadatel.com/iptv/4PRXCCDZKQCWYD/19152/index.m3u8
 http://he11o.akadatel.com/iptv/4PRXCCDZKQCWYD/19153/index.m3u8
 #EXTINF:0 group-title="Sports" tvg-id="6582" tvg-logo="http://epg.it999.ru/img2/6582.png" tvg-rec="0",ESPN USA
 http://he11o.akadatel.com/iptv/4PRXCCDZKQCWYD/19156/index.m3u8
+#EXTINF:-1 tvg-id="LifetimeMoviesEast.us" tvg-name="CA | Lifetime Movie Network HD" tvg-logo="http://platinumxmedia.xyz:8080/images/6a657362a529af4a724ccab5f03ab20d.png" group-title="|CA| CANADA",CA | Lifetime Movie Networkⓧ HD
+http://daddyserver.com:8080/Azadiyame/o3zZ9HpuOl/1365
+#EXTINF:-1 tvg-id="LifetimeEast.us" tvg-name="CA | Lifetime HD" tvg-logo="http://platinumxmedia.xyz:8080/images/4b0306da67700794086722363df4e655.png" group-title="|CA| CANADA",CA | Lifetimeⓧ HD
+http://daddyserver.com:8080/Azadiyame/o3zZ9HpuOl/1366
