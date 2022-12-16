@@ -643,7 +643,7 @@ https://s15.tntendirect.com/france3/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3Rpb
 #EXTINF:-1 group-title="Français" tvg-id="france4.fr" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/03/France-4-logo-carr%C3%A9.jpg",France 4
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96519.ts
 #EXTINF:-1 group-title="Français" tvg-id="france5.fr" tvg-logo="https://xilam.com/wp-content/uploads/2017/10/France-5.png",France 5
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96521.ts
+https://s13.tntendirect.com/france5/live/playlist.m3u8
 #EXTINF:0 tvg-id="M6.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m6_fr.png" group-title="Français",M6
 https://s14.tntendirect.com/m6/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM2OjE2IFBNJmhhc2hfdmFsdWU9M2JyNW5tZnVxaHJDS056TC93MWdvZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:0 tvg-id="TMC.fr" tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tmc_2016.png/150px-Tmc_2016.png" group-title="Français",TMC
