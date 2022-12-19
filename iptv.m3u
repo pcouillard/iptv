@@ -870,3 +870,5 @@ http://daddyserver.com:8080/Azadiyame/o3zZ9HpuOl/11599
 http://daddyserver.com:8080/Azadiyame/o3zZ9HpuOl/11580
 #EXTINF:-1 tvg-id="Z.ca" tvg-name="CA-FR | Zⓧ HD" tvg-logo="http://platinumxmedia.xyz:8080/images/7806f81575cae605d3ddc808b8e62896.png" group-title="|CA| CANADA FRENCH",CA-FR | Zⓧ HD
 http://daddyserver.com:8080/Azadiyame/o3zZ9HpuOl/11579
+#EXTINF:-1  tvg-id="foxweather.us" group-title="Weather" tvg-logo="https://uspto.report/TM/90583155/APP20210319131126/2.jpeg",FOX WEATHER
+https://247wlive.foxweather.com/stream/index.m3u8
