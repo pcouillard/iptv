@@ -657,7 +657,9 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/i24_News_FR/master.
 #EXTINF:-1 group-title="Français" tvg-id="cstar.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_star.png",CStar
 https://s13.tntendirect.com/d17/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjQzOjU2IFBNJmhhc2hfdmFsdWU9Q2JmZzA1QVJ3cy9wWUNwUmxlb09Bdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-445.png",C8
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/C8TV
+https://s13.tntendirect.com/d8/live/playlist.m3u8
+#EXTINF:-1 group-title="Français" tvg-id="NRJ12.fr" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-nrj12-png-8.png",NRJ12
+https://s13.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-id="cherie25.fr" tvg-logo="https://mytelevision.tv/assets/img/chaines/cherie25.png" group-title="Français", Chérie 25
 http://livetv.ktv.zone/27/play.m3u8
 #EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2016/07/TV_FR_Teva.jpg" group-title="Français", Téva
@@ -673,7 +675,7 @@ https://185.125.25.66:443/livecast/rougetv/index.m3u8
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/planete_plus.png" group-title="Français", Planète+
 http://37.235.38.139:4000/play/a00k
 #EXTINF:-1 group-title="Français" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/56/logo-lci-2020-min-a0978b-c7794e-0@3x.png",LCI
-https://raw.githubusercontent.com/Sibprod/streams/main/files/LCI/master.m3u8
+https://sv0.data-stream.top/hls/lci.m3u8
 #EXTINF:0 tvg-id="gulli.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gulli_fr.png" group-title="Jeunesse",Gulli
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/NA/vMztcDc/index.m3u8
 #EXTINF:-1 tvg-id="supertoons.fr" tvg-logo="https://supertoons.bg/wp-content/uploads/2020/12/Logo-Small-2.png" group-title="Jeunesse", Supertoons TV
