@@ -669,7 +669,7 @@ https://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/d5rlvjgg/2628/chunklis
 #EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2016/07/TV_FR_Teva.jpg" group-title="Français", Téva
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96549.ts
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/33.png" group-title="Français", 13eme Rue
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
+rtp://239.186.68.123:10000
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/965ea388c91bb303d5621e2b4044cfde.webp" group-title="Français", Tébéo
 https://start-1.direct.live/hls/tebeo_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6befe82041052a3099ed0680bf9ddc24.webp" group-title="Français", BX1
