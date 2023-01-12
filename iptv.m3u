@@ -670,6 +670,8 @@ https://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/d5rlvjgg/2628/chunklis
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96549.ts
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/33.png" group-title="Français", 13eme Rue
 http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96544.ts
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/965ea388c91bb303d5621e2b4044cfde.webp" group-title="Français", Tébéo
+https://start-1.direct.live/hls/tebeo_low/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Français", RTS Un
 http://livetv.ktv.zone/1/play.m3u8 
 #EXTINF:-1 tvg-logo="" group-title="Français", RTS Deux
