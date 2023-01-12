@@ -54,6 +54,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 https://dai2-playlistserver.aws.syncbak.com/playlist/13681888/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjgxODg4LCJtZDUiOiJhMmQ5MWZkZTQ1Y2E4N2Q1NTJjYTkwYjIyYWY0OTI5MyIsImlhdCI6MTUwMTYxNDQyMSwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.RXktadk3pf_yX7ptBJXhO_2rOhbLlUop2SPKVz2h4hs
 #EXTINF:0 tvg-id="" tvg-country="UK" tvg-logo="" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+#EXTINF:0 tvg-id="" tvg-country="UK" tvg-logo="" group-title="Sports",Tennis Channel 2
+https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/ftf.png" group-title="Sports",FTF Sports
 https://eleven-rebroadcast-samsung.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://americanselectlacrosse.com/wp-content/uploads/2020/10/LSN.jpg" group-title="Sports",LSN
