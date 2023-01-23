@@ -435,7 +435,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/ae.us.easter
 #EXTINF:-1 tvg-chno="225" tvg-id="NationalGeographicEast.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Documentary",National Geographic
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/national.geographic.us.eastern.us.m3u8
 #EXTINF:-1 tvg-chno="226" tvg-id="HistoryEast.us" tvg-name="History" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14771_dark_360w_270h.png" group-title="Documentary",History
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/history.channel.us.east.us.m3u8
+https://live.video.aetnd.com/brand_live_streams/history/primary/history_3500.m3u8?token=aGRudHM9c3Q9MTY3NDQ5MDc4NH5leHA9MTY3NDU0ODM4NH5hY2w9Lyp+aG1hYz1hNmNkNmVmOWExZTUwODNhYTcxODBhMGZmNzZlNDBhMDg1ZDIwN2FhZmI3MGU3YmZkOWNjNjBjMmY4ZTdiODhm
 #EXTINF:-1 tvg-chno="232" tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s67331_dark_360w_270h.png" group-title="Documentary",National Geographic Wild
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/national.geographic.wild.us.m3u8
 #EXTINF:-1 tvg-chno="246" tvg-id="HallmarkChannelEast.us" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66268_dark_360w_270h.png" group-title="USA",Hallmark Channel
