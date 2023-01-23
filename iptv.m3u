@@ -582,8 +582,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://89.187.175.143:80/3014/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png",HBO ZONE HD
 http://89.187.175.143:80/3090/index.m3u8
-#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://static.epg.best/us/TravelChannel.us.png",TRAVEL CHANNEL HD
-http://89.187.175.143:80/3039/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="http://ky-iptv.com:80/images/55fe26db5a5dd86acbdb79b6efd8707e.png",Crime & Investigation HD
 http://89.187.175.143:80/3088/index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",HISTORY 2 HD
