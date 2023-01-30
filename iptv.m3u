@@ -637,7 +637,8 @@ https://s12.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MT
 #EXTINF:-1 group-title="Français" tvg-id="tf1series.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1-series-films-fr.png",TF1 Séries France
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/TF1-Series-Films/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="tf1.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1.png",TF1 France
-https://s13.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjI2OjExIFBNJmhhc2hfdmFsdWU9SUszdHQvT0l0WWJDcnNEcVIzWHUrdz09JnZhbGlkbWludXRlcz0zMA==
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/TF1/master.m3u8
+#https://s13.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjI2OjExIFBNJmhhc2hfdmFsdWU9SUszdHQvT0l0WWJDcnNEcVIzWHUrdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="france2.fr" tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/France-2-Logo-tumb.png",France 2
 https://s15.tntendirect.com/france2/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM0OjA0IFBNJmhhc2hfdmFsdWU9ZGJBam0wNWNVbDlud3ZJVXV2ZVRlZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="france3.fr" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6840.1503848040.png",France 3
