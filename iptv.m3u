@@ -698,6 +698,8 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/LCI/master
 https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/Club-RTL/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="rtltvi.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~204834db78609334.png/1200x630/crop-from/top/quality/80/rtl-tvi.png",RTL-TVi
 https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/RTL-TVi/master.m3u8
+#EXTINF:-1 group-title="Français" tvg-id="plugrtl.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~1d16a8dccb2e4369.png/1200x630/crop-from/top/quality/80/plug-rtl.png",Plug RTL
+https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/Plug-RTL/master.m3u8
 #EXTINF:0 tvg-id="gulli.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gulli_fr.png" group-title="Jeunesse",Gulli
 https://d13anarbtxy8c5.cloudfront.net/pool_u81ytesz/gulli/sixplaysd/hls_short/index.m3u8?hdnts=&exp=1674571682&acl=/*&hmac=c5e1edfc34d210c44f84a2805fc06abc0f54b312b32d62cd01b393283c571eb5
 #EXTINF:-1 tvg-id="supertoons.fr" tvg-logo="https://supertoons.bg/wp-content/uploads/2020/12/Logo-Small-2.png" group-title="Jeunesse", Supertoons TV
