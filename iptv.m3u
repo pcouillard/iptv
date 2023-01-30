@@ -692,8 +692,8 @@ https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
 #EXTINF:-1 tvg-id="maisonettravaux.fr" tvg-country="FR" tvg-logo="https://www.reworldmedia.com/wp-content/uploads/2021/10/MT.png" group-title="Français", Maison & Travaux
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/maison-travaux-tv
-#EXTINF:-1 tvg-id="espnplus.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/espn_lam_plus_br.png" group-title="Sports",ESPN+ (Freecatv)
-http://destiny4k.com:2086/live/darkside/t2z7marsRY/54457.ts
+#EXTINF:-1,SportsGrid
+https://sportsgrid-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="fs1.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FOX SPORTS 1 HD
 https://m3u-editor.com/serve/xromtv-xrom-tv-2022-xromtv/704069213
 #EXTINF:-1 tvg-id="fs2.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_2.png" group-title="Sports",FOX SPORTS 2 HD
