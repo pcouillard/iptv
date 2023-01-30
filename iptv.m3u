@@ -708,7 +708,7 @@ https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="canalj.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_j_fr.png" group-title="Jeunesse",Canal J
 https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/Canal-J/master.m3u8
 #EXTINF:-1 tvg-id="gourmandtv.fr" tvg-country="FR" tvg-logo="https://pbs.twimg.com/media/EmY-yM7XEAEFb1v.png" group-title="Français", Gourmand TV
-https://gt1604323067.mytvchain.info/live/gt1604323067_720/index.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Reworld/Gourmand-TV/master.m3u8
 #EXTINF:-1 tvg-id="maisonettravaux.fr" tvg-country="FR" tvg-logo="https://www.reworldmedia.com/wp-content/uploads/2021/10/MT.png" group-title="Français", Maison & Travaux
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/maison-travaux-tv
 #EXTINF:-1,SportsGrid
