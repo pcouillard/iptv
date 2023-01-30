@@ -640,13 +640,17 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/TF1-Series
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/TF1/master.m3u8
 #https://s13.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjI2OjExIFBNJmhhc2hfdmFsdWU9SUszdHQvT0l0WWJDcnNEcVIzWHUrdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="france2.fr" tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/France-2-Logo-tumb.png",France 2
-https://s15.tntendirect.com/france2/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM0OjA0IFBNJmhhc2hfdmFsdWU9ZGJBam0wNWNVbDlud3ZJVXV2ZVRlZz09JnZhbGlkbWludXRlcz0zMA==
+https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-2/master.m3u8
+# https://s15.tntendirect.com/france2/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM0OjA0IFBNJmhhc2hfdmFsdWU9ZGJBam0wNWNVbDlud3ZJVXV2ZVRlZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="france3.fr" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6840.1503848040.png",France 3
-https://s15.tntendirect.com/france3/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM1OjE0IFBNJmhhc2hfdmFsdWU9QVljQ0VaOS85TW11ZXhXaUdYUUhUQT09JnZhbGlkbWludXRlcz0zMA==
+https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-3/master.m3u8
+# https://s15.tntendirect.com/france3/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM1OjE0IFBNJmhhc2hfdmFsdWU9QVljQ0VaOS85TW11ZXhXaUdYUUhUQT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="france4.fr" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/03/France-4-logo-carr%C3%A9.jpg",France 4
-https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-4/master.m3u8
+# https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="france5.fr" tvg-logo="https://xilam.com/wp-content/uploads/2017/10/France-5.png",France 5
-https://s13.tntendirect.com/france5/live/playlist.m3u8
+https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-5/master.m3u8
+# https://s13.tntendirect.com/france5/live/playlist.m3u8
 #EXTINF:0 tvg-id="M6.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m6_fr.png" group-title="Français",M6
 https://s14.tntendirect.com/m6/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM2OjE2IFBNJmhhc2hfdmFsdWU9M2JyNW5tZnVxaHJDS056TC93MWdvZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:0 tvg-id="TMC.fr" tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tmc_2016.png/150px-Tmc_2016.png" group-title="Français",TMC
