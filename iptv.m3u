@@ -652,7 +652,8 @@ https://s14.tntendirect.com/m6/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MT
 #EXTINF:0 tvg-id="TMC.fr" tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tmc_2016.png/150px-Tmc_2016.png" group-title="Français",TMC
 https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 #EXTINF:0 tvg-id="TMC.fr" tvg-country="FR" tvg-logo="https://www.tntendirect.com/images/channel/tfx.png" group-title="Français",TFX
-https://s15.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM4OjUzIFBNJmhhc2hfdmFsdWU9YmtQOUM2QTY5M0JiVlAyekJvRTRwdz09JnZhbGlkbWludXRlcz0zMA==
+https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/TFX/master.m3u8
+#https://s15.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM4OjUzIFBNJmhhc2hfdmFsdWU9YmtQOUM2QTY5M0JiVlAyekJvRTRwdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="franceinfo.fr" tvg-logo="https://mouvement-europeen.eu/wp-content/uploads/2018/04/Logo-France-Info.png",France Info
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/i24.png" group-title="Français", i24 News
