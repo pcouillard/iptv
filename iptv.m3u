@@ -634,7 +634,8 @@ https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3
 https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/6Ter/master.m3u8
 # https://s14.tntendirect.com/6ter/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjIzOjM5IFBNJmhhc2hfdmFsdWU9TGExUlVKOU8xaXd5YkNtRUR3RTg3Zz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="w9.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/w9_fr.png",W9 France
-https://s12.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM3OjU3IFBNJmhhc2hfdmFsdWU9bFhhdVhyQ2djT1BrTU1talBKbk1PQT09JnZhbGlkbWludXRlcz0zMA==
+https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/W9/master.m3u8
+# https://s12.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM3OjU3IFBNJmhhc2hfdmFsdWU9bFhhdVhyQ2djT1BrTU1talBKbk1PQT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="tf1series.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1-series-films-fr.png",TF1 Séries France
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/TF1-Series-Films/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="tf1.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1.png",TF1 France
@@ -677,7 +678,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Autres/IDF-1/master
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/tv7.png" group-title="Français", TV7
 https://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/d5rlvjgg/2628/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2016/07/TV_FR_Teva.jpg" group-title="Français", Téva
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96549.ts
+https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/Teva/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/33.png" group-title="Français", 13eme Rue
 rtp://239.186.68.123:10000
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/965ea388c91bb303d5621e2b4044cfde.webp" group-title="Français", Tébéo
