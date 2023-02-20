@@ -673,7 +673,7 @@ https://s14.tntendirect.com/d8/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi
 #EXTINF:-1 group-title="Français" tvg-id="NRJ12.fr" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-nrj12-png-8.png",NRJ12
 https://s13.tntendirect.com/nrj12/live/playlist.m3u8
 #EXTINF:-1 tvg-id="cherie25.fr" tvg-logo="https://mytelevision.tv/assets/img/chaines/cherie25.png" group-title="Français", Chérie 25
-http://livetv.ktv.zone/27/play.m3u8
+https://s15.tntendirect.com/cherie25/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MjA6NTAgUE0maGFzaF92YWx1ZT1PRHhJRDFxdW8yTk9EVGFnVmllMlZnPT0mdmFsaWRtaW51dGVzPTMw
 #EXTINF:-1 tvg-id="idf1.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/idf1.jpg" group-title="Français", IDF 1
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Autres/IDF-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/tv7.png" group-title="Français", TV7
