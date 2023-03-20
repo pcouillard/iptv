@@ -97,7 +97,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist
 #EXTINF:0 tvg-id="" tvg-country="UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Nouvelles",Sky News
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
 #EXTINF:0 tvg-id="bfmtv" tvg-country="FR" tvg-logo="https://rndserv.xyz/img/bfmtv.png" group-title="Nouvelles",BFM TV
-https://bfmtvalive1-a.akamaihd.net/r13240d2722f04909a6698e7d03165c71/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+https://bfmtvalive1-a.akamaihd.net/r47fffa74638f461ab9168372ab825c95/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
 #EXTINF:0 tvg-id="dwnews" tvg-country="DE" tvg-logo="https://rndserv.xyz/img/dw.png" group-title="Nouvelles",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-id="cnews" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_news.png" group-title="Nouvelles",CNews
