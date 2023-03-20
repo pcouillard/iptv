@@ -662,7 +662,7 @@ https://s13.tntendirect.com/tmc/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 https://s13.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MDY6MjkgUE0maGFzaF92YWx1ZT1ST2NnY2hIRGwzcEkzb0s2VHpxSnRBPT0mdmFsaWRtaW51dGVzPTMw
 # https://s15.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM4OjUzIFBNJmhhc2hfdmFsdWU9YmtQOUM2QTY5M0JiVlAyekJvRTRwdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="franceinfo.fr" tvg-logo="https://mouvement-europeen.eu/wp-content/uploads/2018/04/Logo-France-Info.png",France Info
-https://simulcast-p.ftven.fr/ZXhwPTE2NzY5MzE3NjN+YWNsPSUyZip+aG1hYz0yMWZlYWUwNjRjMjE2NzIxMTRiZDU5YmUyZDg2NzNiNGQ5ZjBiZmRmMzhiY2YwMDlkYzIzNzI5MzEzZmE5MmJl/simulcast/France_Info/hls_monde_frinfo/France_Info-dfxp_10000_fra_CAPT=30001.m3u8
+https://simulcast-p.ftven.fr/ZXhwPTE2NzkyOTY0MDN+YWNsPSUyZip+aG1hYz1lZWFkYmRjZjkwMWU0ZGUzYWQwOTE1NDQ2OGVhOTZjZDgwNjc2YjExOTlkNjEyOTUwYzliMjI1MDUyYzU2YmY3/simulcast/France_Info/hls_monde_frinfo/France_Info-avc1_5000000=10000.m3u8
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/i24.png" group-title="Français", i24 News
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Altice/i24-News-FR/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="cstar.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_star.png",CStar
