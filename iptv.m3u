@@ -529,7 +529,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cnbc.usa.us.
 #EXTINF:-1 tvg-chno="157" tvg-id="FoxBusiness.us" tvg-name="FOX Business" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s58649_dark_360w_270h.png" group-title="USA",FOX Business
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.business.us.m3u8
 #EXTINF:-1 tvg-chno="160" tvg-id="TheWeatherChannel.us" tvg-name="The Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11187_dark_360w_270h.png" group-title="Weather",The Weather Channel
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/the.weather.channel.us.m3u8
+https://1161275585.rsc.cdn77.org/qzjyBCI-iNBGLi5JddkdjA==,1679286626/LS-ATL-54548-7/index.m3u8
 #EXTINF:-1 tvg-chno="162" tvg-id="CMTEast.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="USA",CMT
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cmt.us.eastern.us.m3u8
 #EXTINF:-1 tvg-chno="171" tvg-id="DiscoveryChannelEast.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary",Discovery Channel
