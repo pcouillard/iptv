@@ -770,3 +770,5 @@ http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/91
 http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/90
 #EXTINF:-1 tvg-chno="468444" tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/Discovery.png" group-title="DOCUMENTARY",Discovery HD
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/acc-network-us.png" group-title="Sports",ACC Network
+http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3295
