@@ -101,7 +101,7 @@ https://bfmtvalive1-a.akamaihd.net/r47fffa74638f461ab9168372ab825c95/eu-central-
 #EXTINF:0 tvg-id="dwnews" tvg-country="DE" tvg-logo="https://rndserv.xyz/img/dw.png" group-title="Nouvelles",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-id="cnews" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_news.png" group-title="Nouvelles",CNews
-https://stream-04.nyc.dailymotion.com/sec(1nXeBFcLxi2SiPaUv6X4gWW2j3ZgAGUY8sfzNHcLx_l22M3fiLVTK2Ql8mYnJyxa)/dm/3/x3b68jn/d/live-4.m3u8#cell=lnyc
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
 #EXTINF:0 tvg-id="Reuters" tvg-country="US" tvg-logo="https://rndserv.xyz/img/reuters.png" group-title="Nouvelles",Reuters
 https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 #EXTINF:0 tvg-id="ABCNews" tvg-country="US" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/Abc-news-logo.png" group-title="Nouvelles",ABC News Live
@@ -668,7 +668,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Altice/i24-News-FR/
 #EXTINF:-1 group-title="Français" tvg-id="cstar.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_star.png",CStar
 https://s13.tntendirect.com/d17/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjQzOjU2IFBNJmhhc2hfdmFsdWU9Q2JmZzA1QVJ3cy9wWUNwUmxlb09Bdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-445.png",C8
-https://s14.tntendirect.com/d8/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MDQ6MDggUE0maGFzaF92YWx1ZT10ODd0WklrTUlaUk53cmg5MkkwZEdBPT0mdmFsaWRtaW51dGVzPTMw
+https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
 # https://s13.tntendirect.com/d8/live/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="NRJ12.fr" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-nrj12-png-8.png",NRJ12
 https://s13.tntendirect.com/nrj12/live/playlist.m3u8
