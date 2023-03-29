@@ -761,14 +761,8 @@ http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132298
 #EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 EN ᴴᴰ" tvg-logo="https://dik.si/xGf7V" group-title="Sports",AR: beIN Sports 3 EN ᴴᴰ
 http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132299
 #EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="Sports",beIN Sports 1 English HD 🇬🇧
- http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
 #EXTINF:-1  tvg-id="foxweather.us" group-title="Weather" tvg-logo="https://uspto.report/TM/90583155/APP20210319131126/2.jpeg",FOX WEATHER
 https://247wlive.foxweather.com/stream/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWildUK.uk" tvg-name="UK: Nat Geo Wild ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png" group-title="DOCUMENTARY",UK: Nat Geo Wild ᴴᴰ
-http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/91
-#EXTINF:-1 tvg-id="NationalGeographicUK.uk" tvg-name="UK: National Geographic ᴴᴰ" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_us.png" group-title="DOCUMENTARY",UK: National Geographic ᴴᴰ
-http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/90
-#EXTINF:-1 tvg-chno="468444" tvg-logo="https://raw.githubusercontent.com/playlist-iptv/iptv/main/logo/Discovery.png" group-title="DOCUMENTARY",Discovery HD
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-discoveryhdin-samsungin/c8ad4e83-47b2-4c95-9340-489a9cce1c2d/2.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/acc-network-us.png" group-title="Sports",ACC Network
 http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/3295
