@@ -381,7 +381,7 @@ https://arkina1234.github.io/hls/live/locals/wnyw.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://savejersey.com/wp-content/uploads/2012/07/20719.jpg",My9
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mnt.wwor.new.york.ny.us.m3u8
 #EXTINF:-1 group-title="USA",CW WPIX New York
-https://arkina1234.github.io/hls/live/locals/wpix.m3u8
+https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/wpix.new.york.superstation.us.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3lp7suq.png" group-title="USA",PAC12 Insider
 http://pac12-samsungus.amagi.tv/playlist480_p.m3u8
 #EXTINF:-1,##### TESTS #####
