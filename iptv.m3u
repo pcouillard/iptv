@@ -375,7 +375,7 @@ https://arkina1234.github.io/hls/live/locals/wnbc.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://itv-entertainment.com/wp-content/uploads/2021/04/CBS-Logo.png",CBS
 https://arkina1234.github.io/hls/live/locals/wcbs.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://www.seekpng.com/png/detail/135-1359832_abc-abc7-eyewitness-news-logo.png",ABC
-https://v-ny.mybtv.net/live/554/1280x720.m3u8
+https://raw.githubusercontent.com/Arkina1234/hls/main/wabc-dt1.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://mpng.subpng.com/20180329/jcw/kisspng-fox-news-television-show-live-television-fox-5abc8f2bd450a1.1881806115223068598697.jpg",Fox
 https://arkina1234.github.io/hls/live/locals/wnyw.m3u8
 #EXTINF:-1 group-title="USA" tvg-logo="https://savejersey.com/wp-content/uploads/2012/07/20719.jpg",My9
