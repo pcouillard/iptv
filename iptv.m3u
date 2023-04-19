@@ -671,9 +671,9 @@ https://s13.tntendirect.com/d17/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9M
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
 # https://s13.tntendirect.com/d8/live/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="NRJ12.fr" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-nrj12-png-8.png",NRJ12
-https://s13.tntendirect.com/nrj12/live/playlist.m3u8
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
 #EXTINF:-1 tvg-id="cherie25.fr" tvg-logo="https://mytelevision.tv/assets/img/chaines/cherie25.png" group-title="Français", Chérie 25
-https://s15.tntendirect.com/cherie25/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MjA6NTAgUE0maGFzaF92YWx1ZT1PRHhJRDFxdW8yTk9EVGFnVmllMlZnPT0mdmFsaWRtaW51dGVzPTMw
+https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
 #EXTINF:-1 tvg-id="idf1.fr" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/idf1.jpg" group-title="Français", IDF 1
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Autres/IDF-1/master.m3u8
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/tv7.png" group-title="Français", TV7
@@ -724,8 +724,9 @@ https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
 http://89.187.175.143:80/3115/index.m3u8
 #EXTINF:-1 tvg-id="foxsportnorth.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_global.png" group-title="Sports",FOX SPORTS NORTH HD
 http://89.187.175.143:80/3113/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ll/l_equipe_fr.png" group-title="Français",L'EQUIPE
-https://s15.tntendirect.com/lequipe21/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjQ1OjAxIFBNJmhhc2hfdmFsdWU9ekNQOXpnL0dQQ0ZTOUs5OFlkQS9MZz09JnZhbGlkbWludXRlcz0zMA==
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Français",L'EQUIPE LIVE 1
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Français",L'EQUIPE LIVE 2
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/swiss.png" group-title="Français",Swiss Sport
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mvLY9FN.png" tvg-id="Pac12Networks.us" tvg-name="Pac-12 Network",Pac-12 Network HD
