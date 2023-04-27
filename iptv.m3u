@@ -631,27 +631,29 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="matele.fr" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/matele-fr.png",Ma Télé France
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="6ter.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/6ter_fr.png",6Ter France
-https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/6Ter/master.m3u8
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12970
 # https://s14.tntendirect.com/6ter/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjIzOjM5IFBNJmhhc2hfdmFsdWU9TGExUlVKOU8xaXd5YkNtRUR3RTg3Zz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="w9.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/w9_fr.png",W9 France
-https://s12.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MDM6MTEgUE0maGFzaF92YWx1ZT1nVG9RUEc0RUxUMmxjdjAyb1U5MW5nPT0mdmFsaWRtaW51dGVzPTMw
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12950
 # https://s12.tntendirect.com/w9/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM3OjU3IFBNJmhhc2hfdmFsdWU9bFhhdVhyQ2djT1BrTU1talBKbk1PQT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="tf1series.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1-series-films-fr.png",TF1 Séries France
-https://s12.tntendirect.com/hd1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MDk6NTUgUE0maGFzaF92YWx1ZT1KdlhEV29LMUZ3dTlraWtMTmtlQW5BPT0mdmFsaWRtaW51dGVzPTMw
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12981
 #EXTINF:-1 group-title="Français" tvg-id="tf1.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tf1.png",TF1 France
-https://s15.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDM6NTY6MjkgUE0maGFzaF92YWx1ZT1HcFozT3pyQ2Y0bi9PRC9GNHFzQmFBPT0mdmFsaWRtaW51dGVzPTMw
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12947
 #https://s13.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjI2OjExIFBNJmhhc2hfdmFsdWU9SUszdHQvT0l0WWJDcnNEcVIzWHUrdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="france2.fr" tvg-logo="https://logos-marques.com/wp-content/uploads/2022/03/France-2-Logo-tumb.png",France 2
-https://s14.tntendirect.com/france2/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDM6NTk6NDAgUE0maGFzaF92YWx1ZT1qYUpHL3dXek9WbjIxTGZqQzc0YWZRPT0mdmFsaWRtaW51dGVzPTMw
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12952
 # https://s15.tntendirect.com/france2/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM0OjA0IFBNJmhhc2hfdmFsdWU9ZGJBam0wNWNVbDlud3ZJVXV2ZVRlZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="france3.fr" tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/6/6840.1503848040.png",France 3
-https://s12.tntendirect.com/france3/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MDA6NTAgUE0maGFzaF92YWx1ZT1Cb2NZU08rUUVBY1h3MEo1S0xiQmp3PT0mdmFsaWRtaW51dGVzPTMw
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12953
 # https://s15.tntendirect.com/france3/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM1OjE0IFBNJmhhc2hfdmFsdWU9QVljQ0VaOS85TW11ZXhXaUdYUUhUQT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="france4.fr" tvg-logo="https://alloforfait.fr/wp-content/uploads/2014/03/France-4-logo-carr%C3%A9.jpg",France 4
-https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-4/master.m3u8
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12955
+# https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-4/master.m3u8
 # https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="france5.fr" tvg-logo="https://xilam.com/wp-content/uploads/2017/10/France-5.png",France 5
-https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-5/master.m3u8
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12956
+# https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-5/master.m3u8
 # https://s13.tntendirect.com/france5/live/playlist.m3u8
 #EXTINF:0 tvg-id="M6.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m6_fr.png" group-title="Français",M6
 https://s12.tntendirect.com/m6/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MDI6MTQgUE0maGFzaF92YWx1ZT1MOXRaMlZ5bytpN2x6TUZZSzB1RlFRPT0mdmFsaWRtaW51dGVzPTMw
@@ -659,16 +661,15 @@ https://s12.tntendirect.com/m6/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi
 https://s13.tntendirect.com/tmc/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MDU6MzYgUE0maGFzaF92YWx1ZT04R3lpMDMvbUkwRXRCdUJWbkVTOXB3PT0mdmFsaWRtaW51dGVzPTMw
 # https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
 #EXTINF:0 tvg-id="TMC.fr" tvg-country="FR" tvg-logo="https://www.tntendirect.com/images/channel/tfx.png" group-title="Français",TFX
-https://s13.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MDY6MjkgUE0maGFzaF92YWx1ZT1ST2NnY2hIRGwzcEkzb0s2VHpxSnRBPT0mdmFsaWRtaW51dGVzPTMw
-# https://s15.tntendirect.com/nt1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjM4OjUzIFBNJmhhc2hfdmFsdWU9YmtQOUM2QTY5M0JiVlAyekJvRTRwdz09JnZhbGlkbWludXRlcz0zMA==
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12980
 #EXTINF:-1 group-title="Français" tvg-id="franceinfo.fr" tvg-logo="https://mouvement-europeen.eu/wp-content/uploads/2018/04/Logo-France-Info.png",France Info
-https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/FranceInfo.m3u8
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12957
 #EXTINF:-1 tvg-logo="https://mytelevision.tv/assets/img/chaines/i24.png" group-title="Français", i24 News
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Altice/i24-News-FR/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="cstar.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_star.png",CStar
 https://s13.tntendirect.com/d17/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjQzOjU2IFBNJmhhc2hfdmFsdWU9Q2JmZzA1QVJ3cy9wWUNwUmxlb09Bdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-445.png",C8
-https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/C8.m3u8
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12972
 # https://s13.tntendirect.com/d8/live/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="NRJ12.fr" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-nrj12-png-8.png",NRJ12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
@@ -679,7 +680,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Autres/IDF-1/master
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/tv7.png" group-title="Français", TV7
 https://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/d5rlvjgg/2628/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2016/07/TV_FR_Teva.jpg" group-title="Français", Téva
-https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/Teva/master.m3u8
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12984
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/33.png" group-title="Français", 13eme Rue
 rtp://239.186.68.123:10000
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/965ea388c91bb303d5621e2b4044cfde.webp" group-title="Français", Tébéo
@@ -696,12 +697,30 @@ https://185.125.25.66:443/livecast/rougetv/index.m3u8
 http://37.235.38.139:4000/play/a00k
 #EXTINF:-1 group-title="Français" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/56/logo-lci-2020-min-a0978b-c7794e-0@3x.png",LCI
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/LCI/master.m3u8
+#EXTINF:-1 tvg-id="RTL9" tvg-name="RTL9" tvg-logo="https://www.luvoo.eu/logo/France/rtl9.png" group-title="Français",RTL9
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12958
 #EXTINF:-1 group-title="Français" tvg-id="clubrtl.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~0cb96f1b233f651b.png/1200x630/crop-from/top/quality/80/club-rtl.png",Club RTL
 https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/Club-RTL/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="rtltvi.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~204834db78609334.png/1200x630/crop-from/top/quality/80/rtl-tvi.png",RTL-TVi
 https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/RTL-TVi/master.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="plugrtl.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~1d16a8dccb2e4369.png/1200x630/crop-from/top/quality/80/plug-rtl.png",Plug RTL
 https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/Plug-RTL/master.m3u8
+#EXTINF:-1 tvg-id="TF1 +1" tvg-name="FR: TF1 plus 1" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2020/04/tf1-plus-1-125x63.png" group-title="",FR: TF1 plus 1
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12982
+#EXTINF:-1 tvg-id="TELETOON+" tvg-name="FR: TELETOON" tvg-logo="http://51.222.110.35/logo/France/teletoonplus.png" group-title="",FR: TELETOON
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12986
+#EXTINF:-1 tvg-id="fr:TCM Cinema" tvg-name="FR: TCM CINEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/TCM_Cinema_HD.svg/320px-TCM_Cinema_HD.svg.png" group-title="",FR: TCM CINEMA
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12987
+#EXTINF:-1 tvg-id="fr:Syfy" tvg-name="FR: SYFY" tvg-logo="https://www.luvoo.eu/logo/France/syfy.png" group-title="",FR: SYFY
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12988
+#EXTINF:-1 tvg-id="serieclub" tvg-name="FR: SERIE CLUB" tvg-logo="https://www.luvoo.eu/logo/France/serieclub.png" group-title="",FR: SERIE CLUB
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12990
+#EXTINF:-1 tvg-id="Seasons" tvg-name="FR: SEASON" tvg-logo="https://www.luvoo.eu/logo/France/season.png" group-title="",FR: SEASON
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12991
+#EXTINF:-1 tvg-id="Science amp Vie TV" tvg-name="FR: SCIENCES e VIE" tvg-logo="https://www.luvoo.eu/logo/France/scienceetvie.png" group-title="",FR: SCIENCES e VIE
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12992
+#EXTINF:-1 tvg-id="RMC Decouverte" tvg-name="FR: RMC DECOUVERTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/320px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="",FR: RMC DECOUVERTE
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12993
 #EXTINF:0 tvg-id="gulli.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gulli_fr.png" group-title="Jeunesse",Gulli
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
 #EXTINF:-1 tvg-id="supertoons.fr" tvg-logo="https://supertoons.bg/wp-content/uploads/2020/12/Logo-Small-2.png" group-title="Jeunesse", Supertoons TV
