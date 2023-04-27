@@ -682,7 +682,7 @@ https://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/d5rlvjgg/2628/chunklis
 #EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2016/07/TV_FR_Teva.jpg" group-title="Français", Téva
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12984
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/33.png" group-title="Français", 13eme Rue
-rtp://239.186.68.123:10000
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13128
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/965ea388c91bb303d5621e2b4044cfde.webp" group-title="Français", Tébéo
 https://start-1.direct.live/hls/tebeo_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6befe82041052a3099ed0680bf9ddc24.webp" group-title="Français", BX1
@@ -696,7 +696,7 @@ https://185.125.25.66:443/livecast/rougetv/index.m3u8
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/planete_plus.png" group-title="Français", Planète+
 http://37.235.38.139:4000/play/a00k
 #EXTINF:-1 group-title="Français" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/56/logo-lci-2020-min-a0978b-c7794e-0@3x.png",LCI
-https://raw.githubusercontent.com/Sibprod/streams/main/files/Bouygues/LCI/master.m3u8
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13069
 #EXTINF:-1 tvg-id="RTL9" tvg-name="RTL9" tvg-logo="https://www.luvoo.eu/logo/France/rtl9.png" group-title="Français",RTL9
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12958
 #EXTINF:-1 group-title="Français" tvg-id="clubrtl.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~0cb96f1b233f651b.png/1200x630/crop-from/top/quality/80/club-rtl.png",Club RTL
@@ -722,11 +722,15 @@ http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12992
 #EXTINF:-1 tvg-id="RMC Decouverte" tvg-name="FR: RMC DECOUVERTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/320px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="",FR: RMC DECOUVERTE
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12993
 #EXTINF:0 tvg-id="gulli.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gulli_fr.png" group-title="Jeunesse",Gulli
-https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13073
 #EXTINF:-1 tvg-id="supertoons.fr" tvg-logo="https://supertoons.bg/wp-content/uploads/2020/12/Logo-Small-2.png" group-title="Jeunesse", Supertoons TV
 https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="canalj.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_j_fr.png" group-title="Jeunesse",Canal J
-https://raw.githubusercontent.com/Sibprod/streams/main/files/RTL/Canal-J/master.m3u8
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13108
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL FRANCE" tvg-logo="" group-title="",FR: GOLF CHANNEL FRANCE
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13074
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF" tvg-logo="" group-title="",FR: GOLF
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13075
 #EXTINF:-1 tvg-id="gourmandtv.fr" tvg-country="FR" tvg-logo="https://pbs.twimg.com/media/EmY-yM7XEAEFb1v.png" group-title="Français", Gourmand TV
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Reworld/Gourmand-TV/master.m3u8
 #EXTINF:-1 tvg-id="maisonettravaux.fr" tvg-country="FR" tvg-logo="https://www.reworldmedia.com/wp-content/uploads/2021/10/MT.png" group-title="Français", Maison & Travaux
@@ -744,20 +748,21 @@ http://89.187.175.143:80/3115/index.m3u8
 #EXTINF:-1 tvg-id="foxsportnorth.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_global.png" group-title="Sports",FOX SPORTS NORTH HD
 http://89.187.175.143:80/3113/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Français",L'EQUIPE LIVE 1
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Français",L'EQUIPE LIVE 2
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/swiss.png" group-title="Français",Swiss Sport
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mvLY9FN.png" tvg-id="Pac12Networks.us" tvg-name="Pac-12 Network",Pac-12 Network HD
 http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2845.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="CANAL+",Cine+ Premier
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96654.ts
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13098
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CANAL+",Cine+ Emotion
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96658.ts
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13101
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CANAL+",Cine+ Frisson
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96656.ts
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13099
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="CANAL+",Cine+ Club
-http://saw.duplex-ott.net:2052/live/N@DO@/NVncJuu2XH/96662.ts
+http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13102
 #EXTINF:-1 tvg-chno="255" tvg-id="SonyMoviesUSA.us" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
 https://m3u-editor.com/serve/xromtv-xrom-tv-2022-xromtv/712849288
 #EXTINF:0 group-title="Sports" tvg-id="6575" tvg-logo="http://epg.it999.ru/img2/6575.png" tvg-rec="0",Bally Sports Great Lakes
