@@ -92,6 +92,25 @@ https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
 https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="186" tvg-id="YTA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10982_dark_360w_270h.png",YTA
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Boston MA - WCVB Channel 5
+https://lnc-wcvb.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Baltimore MD - WMAR 2
+https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wmar2news.com%2F
+#EXTINF:-1 group-title="Local News",Baltimore MD - WBAL-TV 11
+https://lnc-wbal.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Baltimore MD - Fox 45 Baltimore
+https://content.uplynk.com/channel/e8686f1a29274864adf7d4db1467d77b.m3u8
+#EXTINF:-1 group-title="Local News",Detroit MI - Local 4+
+https://dai.google.com/linear/hls/event/K3PyXqgKR4Wb50WAXjAUgw/master.m3u8
+#EXTINF:-1 group-title="Local News",Detroit MI - Channel 7
+https://content.uplynk.com/channel/9c9e4e410b5a471391c116166d8c010e.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wxyz.com%2F
+#EXTINF:-1 group-title="Local News",Cincinnati OH - WLWT 5
+https://lnc-wlwt.tubi.video/playlist.m3u8
+#EXTINF:-1 group-title="Local News",Cincinnati OH - WCPO 9
+https://content.uplynk.com/channel/d8a0c6e385814acc8c310e2b841ae563.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wcpo.com%2F
+#EXTINF:-1 group-title="Local News",Washington DC - WUSA 9
+https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
+
 #EXTINF:-1 tvg-chno="330" tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12553_dark_360w_270h.png" group-title="USA",NASA TV
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-chno="352" tvg-id="OutsideTelevision.us" tvg-name="Outside Television" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s80651_dark_360w_270h.png" group-title="USA",Outside Television
