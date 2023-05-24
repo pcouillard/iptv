@@ -90,6 +90,8 @@ http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1871?checkedby:iptvcat.
 https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",iON Mystery
 https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="186" tvg-id="YTA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10982_dark_360w_270h.png",YTA
+https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:-1 tvg-chno="330" tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12553_dark_360w_270h.png" group-title="USA",NASA TV
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-chno="352" tvg-id="OutsideTelevision.us" tvg-name="Outside Television" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s80651_dark_360w_270h.png" group-title="USA",Outside Television
