@@ -333,7 +333,7 @@ https://7bfb0497795c4d3db90a041bf4cbdae6.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/weatherspy.png" group-title="Weather",WeatherNation
 https://siloh.pluto.tv/lilo/production/WeatherNation/master_1.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/fox.png" group-title="USA",Fox NY
-http://v-ny.theus6tv.tk/hls/5.1/playlist.m3u8
+http://2hubs.ddns.net:25461/jake-telegram/KwZhtsvSRh/65791
 #EXTINF:0 tvg-id="wabi" tvg-country="US" tvg-logo="https://d2pvyxdw30n8fd.cloudfront.net/WABI/v5b856eb55df31/WABINewLogo.png" group-title="News",WABI Bangor News
 https://dai2-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo
 #EXTINF:0 tvg-id="GlobalNews" tvg-country="CA" tvg-logo="https://www.retrofestive.ca/content/images/logo-global-national.jpg" group-title="News",Global News
