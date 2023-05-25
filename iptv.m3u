@@ -363,8 +363,6 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index.m3u8
 #EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://i.imgur.com/v48mMRT.png" group-title="News",NBC News Now
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="D5TV" tvg-logo="https://i.imgur.com/cThInij.png" group-title="Films",D5TV
-https://stream-03.nyc.dailymotion.com/sec(EWe07LaLICe6ZTgKrFaKW6H_Ft_3vSHHEKopJeR1lscH1l6TjVvVHb27itQUXP9U)/dm/3/x7zw38l/s/live-1.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="LocalNow_EPGAdrenaline Rush" tvg-name="Adrenaline Rush" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Movies",Local Now Adrenaline Rush
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LocalNow_EPGAll The Drama" tvg-name="All The Drama" tvg-logo="https://od.lk/s/MF8yMjg3MDIyMDBf/LocalNow_400x400.png" group-title="Movies",Local Now Drama
