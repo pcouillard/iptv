@@ -84,8 +84,8 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/wlny.tv1055.
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.wabc.new.york.ny.us.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc_us_central.png" group-title="USA",NBC
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/fox.png" group-title="USA",Fox Detroit
-http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/1871?checkedby:iptvcat.com
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/fox.png" group-title="USA",Fox
+https://list.iptvcat.com/my_list/s/25f7799876ffda78dded9c1b6edc43e7.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="WPXN.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",WPXN
 https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",iON Mystery
