@@ -62,11 +62,11 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 https://eleven-rebroadcast-samsung.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://americanselectlacrosse.com/wp-content/uploads/2020/10/LSN.jpg" group-title="Sports",LSN
 https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/redbulltv.png" group-title="Sports",Red Bull TV
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://e7.pngegg.com/pngimages/498/290/png-clipart-red-bull-tv-television-channel-logo-red-bull-television-carnivoran-thumbnail.png" group-title="Sports",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/weatherspy.png" group-title="Weather",WeatherSpy TV
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://provider-static.plex.tv/epg/images/thumbnails/jukin_weatherspy_1.jpg" group-title="Weather",WeatherSpy TV
 https://jukin-weatherspy-1-us.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-country="FR" tvg-logo="https://rndserv.xyz/img/sportenfrance.png" group-title="Sports",Sports en France
+#EXTINF:0 tvg-id="" tvg-country="FR" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/8544bd44-21d4-4139-aea9-c518190abda6-profile_image-300x300.png" group-title="Sports",Sports en France
 https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="USA",AMC Presents
 https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
