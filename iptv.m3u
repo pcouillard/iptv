@@ -139,7 +139,7 @@ https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/usa.png" group-title="USA",USA Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/ion.png" group-title="USA",iON Plus
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="http://valzentia.com/ionplus/images/IONPlusLogo.png" group-title="USA",iON Plus
 https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/acc-network-us.png" group-title="Sports",ACC Network
 https://120sports-accdn-1-us.samsung.wurl.tv/playlist.m3u8
