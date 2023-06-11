@@ -35,7 +35,7 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?Canada
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CBCNewsExplore.ca" tvg-name="CBC News Explore" tvg-logo="https://thumbnails.cbc.ca/maven_legacy/thumbnails/976/659/Explore-Thumbnail-Gem-16x9.jpg" group-title="News",CBC News Explore
-https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/720p/master.m3u8
+https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/720p/variant.m3u8
 #EXTINF:0 tvg-id="RakutenTVActionMoviesFrance.es" tvg-country="FR" tvg-logo="https://image.pngaaa.com/380/5477380-middle.png" group-title="Films",RakutenTV-Action
 https://rakuten-actionmovies-7-fr.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-id="RakutenTVComedyMoviesFrance.es" tvg-country="FR" tvg-logo="https://images.samsung.com/is/image/samsung/assets/global/hq/vd/tvs/smart-tv/samsung-tv-plus/2020-smart-tv-tv-plus-04-live-tv-channels-02-01-mo_2.jpg" group-title="Films",RakutenTV-Comédie
