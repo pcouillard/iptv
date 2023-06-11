@@ -36,6 +36,8 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?Canada
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CBCNewsExplore.ca" tvg-name="CBC News Explore" tvg-logo="https://thumbnails.cbc.ca/maven_legacy/thumbnails/976/659/Explore-Thumbnail-Gem-16x9.jpg" group-title="News",CBC News Explore
 https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/720p/variant.m3u8
+#EXTINF:-1 tvg-id="Scripps News" tvg-name="Scripps News" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/64/1b/f6/641bf6e7-a79e-85f5-27d3-9dc322923939/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" group-title="News",Scripps News
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb_live
 #EXTINF:0 tvg-id="RakutenTVActionMoviesFrance.es" tvg-country="FR" tvg-logo="https://image.pngaaa.com/380/5477380-middle.png" group-title="Films",RakutenTV-Action
 https://rakuten-actionmovies-7-fr.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-id="RakutenTVComedyMoviesFrance.es" tvg-country="FR" tvg-logo="https://images.samsung.com/is/image/samsung/assets/global/hq/vd/tvs/smart-tv/samsung-tv-plus/2020-smart-tv-tv-plus-04-live-tv-channels-02-01-mo_2.jpg" group-title="Films",RakutenTV-Comédie
