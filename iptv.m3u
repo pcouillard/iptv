@@ -717,7 +717,7 @@ https://185.125.25.66:443/livecast/rougetv/index.m3u8
 #EXTINF:-1 tvg-id="planeteplus.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/planete_plus.png" group-title="Français", Planète+
 http://37.235.38.139:4000/play/a00k
 #EXTINF:-1 group-title="Français" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/56/logo-lci-2020-min-a0978b-c7794e-0@3x.png",LCI
-http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13069
+https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5NS4xOS4xNzMuMjI2IiwiY21jZCI6IiIsImV4cCI6MTY4ODQ4NTU5OSwiZ2lkIjoiYTFhMzQwNTI2NmZhNDU3ZDhmZjllNGUzNzRjZDdjNjAiLCJpYXQiOjE2ODg0NzExOTksImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvOTE3YWFkNGZhNzJmNDJmN2JhN2Y0ODYyMjZmNTRiYzQvbGNpLWNtYWYiLCJzdWIiOiJhMWEzNDA1MjY2ZmE0NTdkOGZmOWU0ZTM3NGNkN2M2MCJ9.0Jv2mnlnKMh4FaWWb5c3GgNwbdFDefiVcQZw12wNm18/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 #EXTINF:-1 tvg-id="RTL9" tvg-name="RTL9" tvg-logo="https://www.luvoo.eu/logo/France/rtl9.png" group-title="Français",RTL9
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12958
 #EXTINF:-1 group-title="Français" tvg-id="clubrtl.fr" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~0cb96f1b233f651b.png/1200x630/crop-from/top/quality/80/club-rtl.png",Club RTL
