@@ -50,8 +50,8 @@ https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl" status="online" group-title="Documentary",InWonder (720p)
 https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="aenetworks.crime360.1.us" tvg-country="US" tvg-logo="https://www.lyngsat.com/logo/tv/aa/ae_us.png" group-title="USA",A&E Crime 360
-https://aenetworks-crime360-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-id="aweencore" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awe_us.png" group-title="USA",AWE Encore
+https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore_720p30.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/accuweather-network-us.png" group-title="Weather",Accuweather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wagm-tv-us-me.png" group-title="Nouvelles",WAGM TV
