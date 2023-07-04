@@ -743,7 +743,7 @@ http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12992
 #EXTINF:-1 tvg-id="RMC Decouverte" tvg-name="FR: RMC DECOUVERTE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/320px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="",FR: RMC DECOUVERTE
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12993
 #EXTINF:0 tvg-id="gulli.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gulli_fr.png" group-title="Jeunesse",Gulli
-http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13073
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/NA/vBadSAb/index.m3u8
 #EXTINF:-1 tvg-id="supertoons.fr" tvg-logo="https://supertoons.bg/wp-content/uploads/2020/12/Logo-Small-2.png" group-title="Jeunesse", Supertoons TV
 https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="canalj.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_j_fr.png" group-title="Jeunesse",Canal J
