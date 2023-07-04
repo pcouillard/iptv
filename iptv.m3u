@@ -650,7 +650,7 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="matele.fr" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/matele-fr.png",Ma Télé France
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="6ter.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/6ter_fr.png",6Ter France
-http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12970
+https://list.iptvcat.com/my_list/s/7c78f3b38cdb6349ee834c57b0cac850.m3u8
 # https://s14.tntendirect.com/6ter/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjIzOjM5IFBNJmhhc2hfdmFsdWU9TGExUlVKOU8xaXd5YkNtRUR3RTg3Zz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="w9.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/w9_fr.png",W9 France
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12950
@@ -675,7 +675,7 @@ http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12956
 # https://raw.githubusercontent.com/Sibprod/streams/main/files/FTV/France-5/master.m3u8
 # https://s13.tntendirect.com/france5/live/playlist.m3u8
 #EXTINF:0 tvg-id="M6.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/m6_fr.png" group-title="Français",M6
-https://s12.tntendirect.com/m6/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MDI6MTQgUE0maGFzaF92YWx1ZT1MOXRaMlZ5bytpN2x6TUZZSzB1RlFRPT0mdmFsaWRtaW51dGVzPTMw
+https://list.iptvcat.com/my_list/s/261259a37fd3bd8d94cbe39a4dbea321.m3u8
 #EXTINF:0 tvg-id="TMC.fr" tvg-country="FR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Tmc_2016.png/150px-Tmc_2016.png" group-title="Français",TMC
 https://s13.tntendirect.com/tmc/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMC8yMDIzIDQ6MDU6MzYgUE0maGFzaF92YWx1ZT04R3lpMDMvbUkwRXRCdUJWbkVTOXB3PT0mdmFsaWRtaW51dGVzPTMw
 # https://tmc-hls-live-cdn1.tf1.fr/out/v1/982927d0b5d24bd58ac42184b10c63d7/index.m3u8
@@ -701,7 +701,7 @@ https://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/d5rlvjgg/2628/chunklis
 #EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2016/07/TV_FR_Teva.jpg" group-title="Français", Téva
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12984
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/33.png" group-title="Français", 13eme Rue
-http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13128
+https://list.iptvcat.com/my_list/s/b95b79ce861362a8901484871a7fa6e7.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/965ea388c91bb303d5621e2b4044cfde.webp" group-title="Français", Tébéo
 https://start-1.direct.live/hls/tebeo_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6befe82041052a3099ed0680bf9ddc24.webp" group-title="Français", BX1
