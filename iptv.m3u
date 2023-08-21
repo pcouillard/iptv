@@ -87,9 +87,9 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.wnbc.new
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/fox.png" group-title="USA",Fox
 https://list.iptvcat.com/my_list/s/25f7799876ffda78dded9c1b6edc43e7.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="WPXN.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",WPXN
-https://scripps-ion-1-us.samsung.wurl.tv/playlist.m3u8
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",iON Mystery
-https://linear-436.frequency.stream/436/hls/master/playlist.m3u8
+https://csm-e-cetubiausw2live204-02b00c58a74a94aa3.csm.tubi.video/csm/extlive/tubiprd01,ION-Mystery.m3u8
 #EXTINF:-1 tvg-chno="186" tvg-id="YTA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10982_dark_360w_270h.png",YTA
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Boston MA - WCVB Channel 5
@@ -140,7 +140,7 @@ https://versatile-wildsidetv-1-fr.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/usa.png" group-title="USA",USA Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://ionplustv.com/static/global/IONPlusDefault.jpg" group-title="USA",iON Plus
-https://ion-plus.samsung.wurl.com/manifest/playlist.m3u8
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/acc-network-us.png" group-title="Sports",ACC Network
 https://120sports-accdn-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/pac12.png" group-title="Sports",PAC 12
