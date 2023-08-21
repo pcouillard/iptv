@@ -11,7 +11,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/new.england.
 #EXTINF:-1 tvg-chno="326" tvg-id="NESNPlus.us" tvg-name="NESN+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63198_dark_360w_270h.png" group-title="Sports",NESN+
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/new.england.sports.network.plus.us.m3u8
 #EXTINF:0 tvg-id="I723.72976.zap2it.com" tvg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/noovo-ca.png" group-title="Québec",Noovo
-https://pe-ak-lp04a-9c9media.akamaized.net/live/NOOVO/p/dash/00000001/f481c583dbd06b6c/manifest.mpd
+https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTINF:0 tvg-id="I734.58759.zap2it.com" tvg-country="CA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-ca.png" group-title="Québec",TVA
 https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
 #EXTINF:-1 tvg-id="I742.60327.zap2it.com" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-rdi-ca.png" group-title="Québec",ICI RDI
