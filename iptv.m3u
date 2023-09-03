@@ -60,7 +60,7 @@ https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore_720p30.m3u8
 https://linear-293.frequency.stream/dist/studio/293/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/accuweather-network-us.png" group-title="Weather",Accuweather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wagm-tv-us-me.png" group-title="Nouvelles",WAGM TV
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wagm-tv-us-me.png" group-title="News",WAGM TV
 https://dai2-playlistserver.aws.syncbak.com/playlist/13681888/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjgxODg4LCJtZDUiOiJhMmQ5MWZkZTQ1Y2E4N2Q1NTJjYTkwYjIyYWY0OTI5MyIsImlhdCI6MTUwMTYxNDQyMSwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.RXktadk3pf_yX7ptBJXhO_2rOhbLlUop2SPKVz2h4hs
 #EXTINF:0 tvg-id="" tvg-country="UK" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1504784285/pbiwodhpixmuavkknwnw.png" group-title="Sports",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
@@ -120,21 +120,21 @@ https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-chno="352" tvg-id="OutsideTelevision.us" tvg-name="Outside Television" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s80651_dark_360w_270h.png" group-title="USA",Outside Television
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8?did=DID
-#EXTINF:0 tvg-id="" tvg-country="UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="Nouvelles",Sky News
+#EXTINF:0 tvg-id="" tvg-country="UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="News",Sky News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerId=3455&ads.xumo_providerName=skynews&ads.xumo_channelId=9999551&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=skynews&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:0 tvg-id="bfmtv" tvg-country="FR" tvg-logo="https://rndserv.xyz/img/bfmtv.png" group-title="Nouvelles",BFM TV
+#EXTINF:0 tvg-id="bfmtv" tvg-country="FR" tvg-logo="https://rndserv.xyz/img/bfmtv.png" group-title="News",BFM TV
 https://bfmtvalive1-a.akamaihd.net/r47fffa74638f461ab9168372ab825c95/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
-#EXTINF:0 tvg-id="dwnews" tvg-country="DE" tvg-logo="https://rndserv.xyz/img/dw.png" group-title="Nouvelles",DW News
+#EXTINF:0 tvg-id="dwnews" tvg-country="DE" tvg-logo="https://rndserv.xyz/img/dw.png" group-title="News",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:0 tvg-id="cnews" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_news.png" group-title="Nouvelles",CNews
+#EXTINF:0 tvg-id="cnews" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_news.png" group-title="News",CNews
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
 #EXTINF:0 tvg-id="20minutes" tvg-country="FR" tvg-logo="https://static.20mn.fr/push/web/logo-b-192.png" group-title="Français",20 Minutes Ile de France
 https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
-#EXTINF:0 tvg-id="Reuters" tvg-country="US" tvg-logo="https://rndserv.xyz/img/reuters.png" group-title="Nouvelles",Reuters
+#EXTINF:0 tvg-id="Reuters" tvg-country="US" tvg-logo="https://rndserv.xyz/img/reuters.png" group-title="News",Reuters
 https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
-#EXTINF:0 tvg-id="ABCNews" tvg-country="US" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/Abc-news-logo.png" group-title="Nouvelles",ABC News Live
+#EXTINF:0 tvg-id="ABCNews" tvg-country="US" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/Abc-news-logo.png" group-title="News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:0 tvg-id="FoxNews" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="Nouvelles",Fox News
+#EXTINF:0 tvg-id="FoxNews" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png" group-title="News",Fox News
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/mhznow.png" group-title="Films",MHz Now
 https://mhz-samsung-linear-us.samsung.wurl.tv/playlist.m3u8
@@ -156,7 +156,7 @@ https://pac12-roku-us.amagi.tv/playlist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB400000145" tvg-chno="1155" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/39/USBB400000145_20211117T100428.png" group-title="Sports",GOLFPASS
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/news12.png" group-title="Nouvelles",News 12 New York
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/news12.png" group-title="News",News 12 New York
 https://cheddar-news12ny-1-us.plex.wurl.tv/de6071b3dac05dabde5ea0ab4f80a010.m3u8
 #EXTINF:0 tvg-id="" tvg-country="FR" tvg-logo="https://www.lfmtv.ch/wp-content/uploads/2017/02/logo_v02-2.png" group-title="Français",LFM TV
 https://edge17.vedge.infomaniak.com/livecast/lfmmd/chunklist_w164198439.m3u8
@@ -570,7 +570,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/tlc.usa.east
 https://bcovlive-a.akamaihd.net/8e64fad5ddbe4d3e95b23b0f9c062f03/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:0 tvg-country="AF;BB;BR;BG;KH;CA;CL;FI;HK;ID;IR;IL" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/18332/s18332_h3_aa.png" group-title="Entertainment",BBC America (720p)
 https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AF;DZ;BH;BG;KH;CA;DK;FR;NL;PK;SA;AE" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="Nouvelles",Euronews Français (720p)
+#EXTINF:0 tvg-country="AF;DZ;BH;BG;KH;CA;DK;FR;NL;PK;SA;AE" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Français (720p)
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AF;DZ;BG;KH;CA;DK;FR;NL;SA" tvg-logo="" group-title="Français",Rakuten Action Movies (720p)
 https://rakuten-actionmovies-7-fr.samsung.wurl.tv/playlist.m3u8?checkedby:iptvcat.com
@@ -650,7 +650,7 @@ http://89.187.175.143:80/3055/index.m3u8
 http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/136657
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/JmBrgQj/Starsports1.jpg",StarSports 1 HD
 http://fortv.cc:8080/chris2/chris2/136570
-#EXTINF:-1 group-title="Nouvelles" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png",Euronews FR
+#EXTINF:-1 group-title="News" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png",Euronews FR
 https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/240px-Euronews._2016_alternative_logo.png",Euronews EN
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
