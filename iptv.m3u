@@ -44,8 +44,10 @@ https://rakuten-actionmovies-7-fr.samsung.wurl.tv/3000.m3u8
 https://rakuten-comedymovies-7-fr.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-id="RakutenTVDramaFrance.es" tvg-country="FR" tvg-logo="https://images.samsung.com/is/image/samsung/assets/global/hq/vd/tvs/smart-tv/samsung-tv-plus/2020-smart-tv-tv-plus-04-live-tv-channels-02-05-mo_2.jpg" group-title="Films",RakutenTV-Drame
 https://rakuten-tvshows-7-fr.samsung.wurl.tv/3000.m3u8
-#EXTINF:0 tvg-id="NTV" tvg-country="CA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cjon_ntv_st_john.png" group-title="Divers",NTV New Foundland
+#EXTINF:0 tvg-id="NTV" tvg-country="CA" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cjon_ntv_st_john.png" group-title="Canada",NTV New Foundland
 https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+#EXTINF:0 tvg-id="icitv.ca" tvg-country="CA" tvg-logo="https://www.lyngsat.com/logo/tv/ii/ici-ca.png" group-title="Canada",ICI TV
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" status="online" group-title="Documentary",Insight TV (720p)
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl" status="online" group-title="Documentary",InWonder (720p)
