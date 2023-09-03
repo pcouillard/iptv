@@ -82,8 +82,6 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="USA",AMC Rush
 https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="USA",AMC TWD1
-https://amc-twdtv14-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="USA",AMC TWD2
 https://amc-twdfanexperience-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://icon-library.com/images/cbs-icon/cbs-icon-19.jpg" group-title="USA",CBS
@@ -131,6 +129,8 @@ https://bfmtvalive1-a.akamaihd.net/r47fffa74638f461ab9168372ab825c95/eu-central-
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-id="cnews" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_news.png" group-title="Nouvelles",CNews
 https://raw.githubusercontent.com/pshanmu3/dailymotion_to_m3u8/main/CNEWS.m3u8
+#EXTINF:0 tvg-id="20minutes" tvg-country="FR" tvg-logo="https://static.20mn.fr/push/web/logo-b-192.png" group-title="Français",20 Minutes Ile de France
+https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8
 #EXTINF:0 tvg-id="Reuters" tvg-country="US" tvg-logo="https://rndserv.xyz/img/reuters.png" group-title="Nouvelles",Reuters
 https://reuters-reutersnow-1-us.plex.wurl.tv/c0c0829237382f291cc46a0368586aa7.m3u8
 #EXTINF:0 tvg-id="ABCNews" tvg-country="US" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/Abc-news-logo.png" group-title="Nouvelles",ABC News Live
