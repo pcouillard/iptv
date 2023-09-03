@@ -149,7 +149,7 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://ionplustv.com/static/global/IONPlusDefault.jpg" group-title="USA",iON Plus
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/acc-network-us.png" group-title="Sports",ACC Network
-https://120sports-accdn-1-us.samsung.wurl.tv/playlist.m3u8
+https://d2ncos3ajn8k1w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-de57um7xrx88p/ACC_Digital_Network_US.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/pac12.png" group-title="Sports",PAC 12
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="OneGolf" tvg-country="US" tvg-logo="https://rndserv.xyz/img/pga.png" group-title="Sports",OneGolf
