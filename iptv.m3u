@@ -51,7 +51,7 @@ https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 #EXTINF:-1 tvg-id="InsightTV.nl" status="online" group-title="Documentary",Insight TV (720p)
 https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InWonder.nl" status="online" group-title="Documentary",InWonder (720p)
-https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
+https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8
 #EXTINF:0 tvg-id="aweencore" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awe_us.png" group-title="USA",AWE Encore
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore_720p30.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/accuweather-network-us.png" group-title="Weather",Accuweather
