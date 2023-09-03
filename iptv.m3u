@@ -56,7 +56,7 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderushd-samsungca/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:0 tvg-id="aweencore" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awe_us.png" group-title="USA",AWE Encore
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore_720p30.m3u8
-#EXTINF:0 tvg-id="ovation" tvg-country="US" tvg-logo="https://www.nicepng.com/png/full/797-7977946_circle.png" group-title="USA",Ovation
+#EXTINF:0 tvg-id="ovation" tvg-country="US" tvg-logo="https://image.roku.com/developer_channels/prod/f907f68ba1ce2f3083d5fc95972d95b3784857b4070c6ac0893af9b65c988a23.png" group-title="USA",Ovation
 https://linear-293.frequency.stream/dist/studio/293/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/accuweather-network-us.png" group-title="Weather",Accuweather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
