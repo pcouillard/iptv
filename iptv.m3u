@@ -56,7 +56,7 @@ https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00861-terninternation-inwonderushd-samsungca/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:0 tvg-id="aweencore" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/awe_us.png" group-title="USA",AWE Encore
 https://cdn.herringnetwork.com/80A4DFF/awee_nva/AWE_Encore_720p30.m3u8
-#EXTINF:0 tvg-id="ovation" tvg-country="US" tvg-logo="https://www.lyngsat.com/logo/tv/oo/ovation-us.svg" group-title="USA",Ovation
+#EXTINF:0 tvg-id="ovation" tvg-country="US" tvg-logo="https://www.nicepng.com/png/full/797-7977946_circle.png" group-title="USA",Ovation
 https://linear-293.frequency.stream/dist/studio/293/hls/master/playlist_1280x720.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/accuweather-network-us.png" group-title="Weather",Accuweather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
@@ -718,8 +718,8 @@ http://livetv.ktv.zone/1/play.m3u8
 http://livetv.ktv.zone/2/play.m3u8
 #EXTINF:-1 tvg-id="rougetv.fr" tvg-logo="https://mytelevision.tv/assets/img/chaines/rougetv.png" group-title="Français", Rouge TV
 https://185.125.25.66:443/livecast/rougetv/index.m3u8
-#EXTINF:-1 tvg-id="planeteplus.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/planete_plus.png" group-title="Français", Planète+
-http://37.235.38.139:4000/play/a00k
+#EXTINF:-1 tvg-id="tvm3.fr" tvg-logo="https://www.freeetv.com/images/01_logo/tvm3.jpg" group-title="Français", TVM3
+https://edge13.vedge.infomaniak.com/livecast/tvm3/chunklist_w1672489244.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/56/logo-lci-2020-min-a0978b-c7794e-0@3x.png",LCI
 https://live-lci-hls.cdn-0.diff.tf1.fr/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXAiOiI5NS4xOS4xNzMuMjI2IiwiY21jZCI6IiIsImV4cCI6MTY4ODQ4NTU5OSwiZ2lkIjoiYTFhMzQwNTI2NmZhNDU3ZDhmZjllNGUzNzRjZDdjNjAiLCJpYXQiOjE2ODg0NzExOTksImlzcyI6ImRlbGl2ZXJ5IiwibWF4YiI6MCwic3RlbSI6Ii9vdXQvdjEvOTE3YWFkNGZhNzJmNDJmN2JhN2Y0ODYyMjZmNTRiYzQvbGNpLWNtYWYiLCJzdWIiOiJhMWEzNDA1MjY2ZmE0NTdkOGZmOWU0ZTM3NGNkN2M2MCJ9.0Jv2mnlnKMh4FaWWb5c3GgNwbdFDefiVcQZw12wNm18/out/v1/917aad4fa72f42f7ba7f486226f54bc4/lci-cmaf/index.m3u8
 #EXTINF:-1 tvg-id="RTL9" tvg-name="RTL9" tvg-logo="https://www.luvoo.eu/logo/France/rtl9.png" group-title="Français",RTL9
