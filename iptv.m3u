@@ -116,7 +116,6 @@ https://lnc-wlwt.tubi.video/playlist.m3u8
 https://content.uplynk.com/channel/d8a0c6e385814acc8c310e2b841ae563.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.wcpo.com%2F
 #EXTINF:-1 group-title="Local News",Washington DC - WUSA 9
 https://livevideo.tegnadigital.com/wusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WUSA/elvs/live.m3u8
-
 #EXTINF:-1 tvg-chno="330" tvg-id="NASATV.us" tvg-name="NASA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12553_dark_360w_270h.png" group-title="USA",NASA TV
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-chno="352" tvg-id="OutsideTelevision.us" tvg-name="Outside Television" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s80651_dark_360w_270h.png" group-title="USA",Outside Television
@@ -153,7 +152,7 @@ https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,I
 https://120sports-accdn-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/pac12.png" group-title="Sports",PAC 12
 https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-id="OneGolf" tvg-country="US" tvg-logo="https://rndserv.xyz/img/pga.png" group-title="Sports",OneGolf [Pas 24h]
+#EXTINF:0 tvg-id="OneGolf" tvg-country="US" tvg-logo="https://rndserv.xyz/img/pga.png" group-title="Sports",OneGolf
 http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
 #EXTINF:-1 tvg-id="USBB400000145" tvg-chno="1155" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/39/USBB400000145_20211117T100428.png" group-title="Sports",GOLFPASS
 https://d202koqm588atp.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched-publica/samsungtvplus_us_golfpass_001.m3u8?ads.caid=NBCUGolfpass&ads.csid=samsungtvplus_us_nbcugolfpass_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB17&ads._fw_content_genre=sports&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=2794&ads.xumo_contentName=nbcugolfpass&ads.xumo_providerId=2794&ads.xumo_providerName=nbcugolfpass&ads.xumo_channelId=9999550&ads.xumo_channelName=Golfpass&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
