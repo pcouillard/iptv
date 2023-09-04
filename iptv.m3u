@@ -4,10 +4,6 @@
 # * https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
 # * EXTINF:0 tvg-id="New England Sports Network Plus" tvg-country="US" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nesn-us.png" group-title="Sports",NESN+
 # * https://bcovlive-a.akamaihd.net/f1fe983d710642b08c2232d4f5e1bb49/us-east-1/6141518204001/profile_0/chunklist.m3u8
-# * #EXTINF:-1 tvg-id="Canal Vie" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-vie-ca.png" group-title="Québec",CANAL VIE
-# * http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156089
-# * EXTINF:-1 tvg-id="VRAK" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vrak_tv_ca.png" group-title="Québec",VRAK TV
-# * http://mytv.fun:80/5vv58jngf/bywihbp8lw/53705
 # ********************************************************************************************
 #EXTM3U url-tvg="http://xmltv.bigsb.fr/xmltv.xml"
 #EXTINF:-1 tvg-chno="325" tvg-id="NESN.us" tvg-name="NESN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35038_dark_360w_270h.png" group-title="Sports",NESN
@@ -171,52 +167,55 @@ https://edge17.vedge.infomaniak.com/livecast/lfmmd/chunklist_w164198439.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="http://24.49.232.69/data/soucisse.png" group-title="Radio",Soucisse et Cie
 http://24.49.248.51:8000/_a
 #EXTINF:-1 tvg-id="ZTele" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/z_tele_ca.png" group-title="Québec",Z TELE (HD)
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156101
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213918.ts
 #EXTINF:-1 tvg-id="Canal D" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_d.png" group-title="Québec" ,CANALD (HD)
-http://appleiptv.com:80/1240/1240/31787
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213933.ts
 #EXTINF:-1 tvg-id="Historia" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/historia_ca.png" group-title="Québec" ,HISTORIA (HD)
 http://appleiptv.com:80/1240/1240/31794
 #EXTINF:-1 tvg-id="Series" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/series-plus-ca.png" group-title="Québec" ,SERIES (HD)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/53726
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213911.ts
 #EXTINF:-1 tvg-id="Super Ecran 1" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_ecran1.png" group-title="Québec" ,SUPER ECRAN 1 (HD)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/632631
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213902.ts
 #EXTINF:-1 tvg-id="Super Ecran 2" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_ecran2.png" group-title="Québec" ,SUPER ECRAN 2 (HD)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/632630
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213903.ts
 #EXTINF:-1 tvg-id="Super Ecran 3" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_ecran3.png" group-title="Québec" ,SUPER ECRAN 3 (HD)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/632629
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213904.ts
 #EXTINF:-1 tvg-id="Super Ecran 4" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_ecran4.png" group-title="Québec" ,SUPER ECRAN 4 (HD)
-http://appleiptv.com:80/1240/1240/31872
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213905.ts
 #EXTINF:-1 tvg-id="TVASports" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tva-sports-ca.png" group-title="Québec" ,TVA SPORTS (HD)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/690083
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213915.ts
 #EXTINF:0 tvg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tva-sports-2-ca.png" group-title="Québec",TVA Sports 2 (TV)(720)
-http://revteam4.offshorerev.cc:80/SPIDER_hjiIwL/oeSTUYFK4R/112478
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213979.ts
 #EXTINF:-1 tvg-id="Max" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/max_ca.png" group-title="Québec",MAX (HD)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/53735
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213901.ts
 #EXTINF:-1 tvg-id="RDS" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds_ca.png" group-title="Québec",RDS (FR)
-http://appleiptv.com:80/1240/1240/31803
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213928.ts
 #EXTINF:-1 tvg-id="RDS2" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds_ca_2.png" group-title="Québec",RDS 2 (FR)
-http://appleiptv.com:80/1240/1240/31804
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213929.ts
 #EXTINF:-1 tvg-id="RDSINFO" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds_ca_info.png" group-title="Québec",RDS INFO (FR)
 http://appleiptv.com:80/1240/1240/31805
-
+#EXTINF:-1 tvg-id="Canal Vie" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-vie-ca.png" group-title="Québec",CANAL VIE
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213916.ts
+#EXTINF:-1 tvg-id="VRAK" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vrak_tv_ca.png" group-title="Québec",VRAK TV
+http://mytv.fun:80/5vv58jngf/bywihbp8lw/53705
 #EXTINF:-1 tvg-id="amitele.ca" tvg-name="CA AMI-télé FR" tvg-logo="" group-title="Québec",CA AMI-Télé FR
 http://appleiptv.com:80/1240/1240/31661
 #EXTINF:-1 tvg-id="Addik" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/addik_tv.png" group-title="Québec",ADDIK (FR)
-http://appleiptv.com:80/1240/1240/31783
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213931.ts
 #EXTINF:-1 tvg-id="Yoopa" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yoopa.png" group-title="Québec",YOOPA (FR)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/53700
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213906.ts
 #EXTINF:-1 tvg-id="TFO" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tfo-ca.png" group-title="Québec",TFO HD (FR)
-http://appleiptv.com:80/1240/1240/31704
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213913.ts
 #EXTINF:-1 tvg-id="UNIS TV" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/unis_ca.png" group-title="Québec",Unis TV HD (FR)
-http://appleiptv.com:80/1240/1240/31700
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213932.ts
 #EXTINF:-1 tvg-id="TV5" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-quebec-canada-fr-ca.png" group-title="Québec",TV5 Québec HD (FR)
-http://appleiptv.com:80/1240/1240/31808
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213907.ts
 #EXTINF:-1 tvg-id="Evasion" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/evasion-ca.png" group-title="Québec",Évasion (FR)
 http://appleiptv.com:80/1240/1240/31793
 #EXTINF:-1 tvg-id="Casa" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/casa-ca.png" group-title="Québec",CASA
-http://appleiptv.com:80/1240/1240/31789
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213935.ts
 #EXTINF:-1 tvg-id="Moi et Cie" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moi-et-cie-ca.png" group-title="Québec",MOI CIE
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156025
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213926.ts
 #EXTINF:-1 tvg-id="Zeste" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zeste-ca.png" group-title="Québec",ZESTE HD
 http://mytv.fun:80/5vv58jngf/bywihbp8lw/53713
 #EXTINF:-1 tvg-id="Elle Fictions" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/elle-fictions-ca.png" group-title="Québec",Elle Fictions [FR] CA
@@ -224,15 +223,17 @@ http://mytv.fun:80/5vv58jngf/bywihbp8lw/53732
 #EXTINF:-1 tvg-id="Frissons" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/frissons-tv-ca.png" group-title="Québec",Frissons TV CA-FR
 http://mytv.fun:80/5vv58jngf/bywihbp8lw/53736
 #EXTINF:-1 tvg-id="MeteoMedia" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/meteo_media.png" group-title="Québec",Meteo-Media CA-FR
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/53734
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213925.ts
 #EXTINF:-1 tvg-id="Prise2" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/pp/prise-2-ca.png" group-title="Québec",CA Prise 2 (FR)
-http://revteam4.offshorerev.cc:80/SPIDER_hjiIwL/oeSTUYFK4R/112502
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213927.ts
 #EXTINF:-1 tvg-id="ICIArtTV" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-artv-ca.png" group-title="Québec",CA ICI ARTV HD
 http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/155929
 #EXTINF:-1 tvg-id="Teletoon" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teletoon_quebec.png" group-title="Québec",CA (FR) TELETOON HD
 http://appleiptv.com:80/1240/1240/31705
 #EXTINF:-1 tvg-id="Cinepop" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinepop-ca.png" group-title="Québec",CA (FR) Cinepop HD
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/155949
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213936.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: DISNEY (FR)" tvg-logo="https://logo.iptveditor.com/disney.png" group-title="Québec",DISNEY (FR)
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213937.ts
 #EXTINF:-1 tvg-chno="515" tvg-id="TV5MONDEEtatsUnis(French).us" tvg-name="TV5Monde" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19059_dark_360w_270h.png" group-title="Québec",TV5Monde Info
 https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="Investigations" tfg-country="CA" tvg-logo="https://asset.noovo.ca/image-service/version/c:YmViNDdiZjktYTM1Mi00:OGQwNGQ1/image.png" group-title="Québec",CA (FR) Investigation HD
@@ -1031,3 +1032,77 @@ http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213898.ts
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213899.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA: DISCOVERY VELOCITY" tvg-logo="https://logo.iptveditor.com/discoveryvelocity.png" group-title="Canada",DISCOVERY VELOCITY
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213900.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: ABC SPARK HD" tvg-logo="https://logo.iptveditor.com/abcspark.png" group-title="Canada",ABC SPARK HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213938.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TVO HD" tvg-logo="https://logo.iptveditor.com/tvo.png" group-title="Canada",TVO HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213955.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: W NETWORK" tvg-logo="https://logo.iptveditor.com/wnetwork.png" group-title="Canada",W NETWORK
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213957.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: YES TV" tvg-logo="https://logo.iptveditor.com/yestv.png" group-title="Canada",YES TV
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213959.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CP24 HD" tvg-logo="https://logo.iptveditor.com/cp24.png" group-title="Canada",CP24 HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213962.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CARTOON NETWORK HD" tvg-logo="https://logo.iptveditor.com/cartoonnetwork.png" group-title="Canada",CARTOON NETWORK HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213974.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF CHANNEL" tvg-logo="https://logo.iptveditor.com/golfchannel.png" group-title="Canada",GOLF CHANNEL
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213977.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: NBA TV CANADA" tvg-logo="https://logo.iptveditor.com/nbatv.png" group-title="Canada",NBA TV CANADA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213978.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: NBA TV" tvg-logo="https://logo.iptveditor.com/nbatv.png" group-title="Canada",NBA TV
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213980.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: GOLF" tvg-logo="https://logo.iptveditor.com/golf.png" group-title="Canada",GOLF
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213981.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONE | SN1" tvg-logo="https://logo.iptveditor.com/sportsnetone.png" group-title="Canada",SPORTSNET ONE | SN1
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213982.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET 360 | SN360" tvg-logo="https://logo.iptveditor.com/sportsnetsn360.png" group-title="Canada",SPORTSNET 360 | SN360
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213983.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET PACIFIC | SNP" tvg-logo="https://logo.iptveditor.com/sportsnetpacific.png" group-title="Canada",SPORTSNET PACIFIC | SNP
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213984.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET WEST | SNW" tvg-logo="https://logo.iptveditor.com/sportsnetwest.png" group-title="Canada",SPORTSNET WEST | SNW
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213985.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET EAST | SNE" tvg-logo="https://logo.iptveditor.com/sportsnetsne.png" group-title="Canada",SPORTSNET EAST | SNE
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213986.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONTARIO | SNO" tvg-logo="https://logo.iptveditor.com/sportsnetontario.png" group-title="Canada",SPORTSNET ONTARIO | SNO
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213987.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN" tvg-logo="https://logo.iptveditor.com/tsn.png" group-title="Canada",TSN
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213988.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 2" tvg-logo="https://logo.iptveditor.com/tsn2.png" group-title="Canada",TSN 2
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213989.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 3" tvg-logo="https://logo.iptveditor.com/tsn3.png" group-title="Canada",TSN 3
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213990.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 4" tvg-logo="https://logo.iptveditor.com/tsn4.png" group-title="Canada",TSN 4
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213991.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 5" tvg-logo="https://logo.iptveditor.com/tsn5.png" group-title="Canada",TSN 5
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213992.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 1 | BACKUP" tvg-logo="https://logo.iptveditor.com/tsn1.png" group-title="Canada",TSN 1 | BACKUP
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213993.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 2 | BACKUP" tvg-logo="https://logo.iptveditor.com/tsn2.png" group-title="Canada",TSN 2 | BACKUP
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213994.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 3 | BACKUP" tvg-logo="https://logo.iptveditor.com/tsn3.png" group-title="Canada",TSN 3 | BACKUP
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213995.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 4 | BACKUP" tvg-logo="https://logo.iptveditor.com/tsn4.png" group-title="Canada",TSN 4 | BACKUP
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213996.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TSN 5 | BACKUP" tvg-logo="https://logo.iptveditor.com/tsn5.png" group-title="Canada",TSN 5 | BACKUP
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213997.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: BEIN SPORTS" tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="Canada",BEIN SPORTS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213998.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: ONE SOCCER" tvg-logo="" group-title="Canada",ONE SOCCER
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213999.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: FOX SPORTS RACING" tvg-logo="https://logo.iptveditor.com/foxsportsracing.png" group-title="Canada",FOX SPORTS RACING
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/214000.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: IMPACT WRESTLING" tvg-logo="https://logo.iptveditor.com/impactwrestling.png" group-title="Canada",IMPACT WRESTLING
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/214001.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONE FHD" tvg-logo="https://logo.iptveditor.com/sportsnetone.png" group-title="Canada",SPORTSNET ONE FHD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/214002.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET ONTARIO FHD" tvg-logo="https://logo.iptveditor.com/sportsnetontario.png" group-title="Canada",SPORTSNET ONTARIO FHD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/214003.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET 360 FHD" tvg-logo="https://logo.iptveditor.com/sportsnet360.png" group-title="Canada",SPORTSNET 360 FHD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/214004.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET  WORLD FHD" tvg-logo="https://logo.iptveditor.com/sportsnetworld.png" group-title="Canada",SPORTSNET  WORLD FHD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/214005.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET EAST FHD" tvg-logo="https://logo.iptveditor.com/sportsnet.png" group-title="Canada",SPORTSNET EAST FHD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/214006.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SPORTSNET WL FHD" tvg-logo="https://logo.iptveditor.com/sportsnet.png" group-title="Canada",SPORTSNET WL FHD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/214007.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: FIGHT NETWORK" tvg-logo="https://logo.iptveditor.com/fightnetwork.png" group-title="Canada",FIGHT NETWORK
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/214008.ts
