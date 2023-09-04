@@ -919,6 +919,7 @@ https://rakuten-guardian-1-fr.xiaomi.wurl.tv/playlist.m3u8
 http://appleiptv.com:80/1240/1240/101857
 #EXTINF:-1 tvg-id="" tvg-name="US NFL RedZone (S)" tvg-logo="" group-title="Sports",US NFL RedZone (S)
 http://appleiptv.com:80/1240/1240/101858
-
+#EXTINF,Test
+https://raw.githubusercontent.com/Arkina1234/hls/main/warnermedia/tbseast.m3u8
 
 
