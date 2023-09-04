@@ -126,8 +126,8 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetvplus-oando/playlist.m3u8?did=DID
 #EXTINF:0 tvg-id="" tvg-country="UK" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-news-uk.png" group-title="News",Sky News
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_us_skynewsamericas_001.m3u8?ads.caid=nbcuskynews&ads.csid=samsungtvplus_us_nbcuskynews_ssai&ads.xumo_platform=samsung&ads._fw_is_lat=%7BTARGETOPT%7D&ads._fw_us_privacy=1YNY&ads._fw_coppa=0&ads._fw_did=%7BPSID%7D&ads._fw_content_category=IAB12&ads._fw_content_genre=News&ads._fw_content_language=en&ads._fw_content_rating=tv-g&ads._fw_deviceMake=samsung&ads._fw_gdpr=0&ads._fw_h_x_country=US&ads.appName=%7BAPP_NAME%7D&ads.xumo_contentId=3455&ads.xumo_contentName=skynews&ads.xumo_providerId=3455&ads.xumo_providerName=skynews&ads.xumo_channelId=9999551&ads.xumo_adsystem=mediatailor&ads.xumo_channelName=skynews&ads.tpcl=MIDROLL&ads._fw_app_store_url=%7BAPP_DOMAIN%7D
-#EXTINF:0 tvg-id="bfmtv" tvg-country="FR" tvg-logo="https://rndserv.xyz/img/bfmtv.png" group-title="News",BFM TV
-https://bfmtvalive1-a.akamaihd.net/r47fffa74638f461ab9168372ab825c95/eu-central-1/876450610001/7b4151e1e2434a7cacdb9936db7a7910/playlist_ssaiM.m3u8
+#EXTINF:0 tvg-id="bfmtv" tvg-country="FR" tvg-logo="https://rndserv.xyz/img/bfmtv.png" group-title="Nouvelles",BFM TV
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/286758.ts
 #EXTINF:0 tvg-id="dwnews" tvg-country="DE" tvg-logo="https://rndserv.xyz/img/dw.png" group-title="News",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:0 tvg-id="cnews" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_news.png" group-title="News",CNews
@@ -677,7 +677,7 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="matele.fr" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/matele-fr.png",Ma Télé France
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="6ter.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/6ter_fr.png",6Ter France
-http://appleiptv.com:80/1240/1240/82871
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/286709.ts
 # https://s14.tntendirect.com/6ter/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjIzOjM5IFBNJmhhc2hfdmFsdWU9TGExUlVKOU8xaXd5YkNtRUR3RTg3Zz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="w9.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/w9_fr.png",W9 France
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12950
@@ -715,7 +715,7 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Altice/i24-News-FR/
 #EXTINF:-1 group-title="Français" tvg-id="cstar.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canalplus_fr_c_star.png",CStar
 https://s13.tntendirect.com/d17/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjQzOjU2IFBNJmhhc2hfdmFsdWU9Q2JmZzA1QVJ3cy9wWUNwUmxlb09Bdz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="C8.fr" tvg-logo="https://focus.telerama.fr/40x40/80/0000/00/01/clear-445.png",C8
-http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12972
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/286772.ts
 # https://s13.tntendirect.com/d8/live/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="NRJ12.fr" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-nrj12-png-8.png",NRJ12
 https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
@@ -728,7 +728,7 @@ https://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/d5rlvjgg/2628/chunklis
 #EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2016/07/TV_FR_Teva.jpg" group-title="Français", Téva
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12984
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/33.png" group-title="Français", 13eme Rue
-http://appleiptv.com:80/1240/1240/82870
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/286706.ts
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/965ea388c91bb303d5621e2b4044cfde.webp" group-title="Français", Tébéo
 https://start-1.direct.live/hls/tebeo_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6befe82041052a3099ed0680bf9ddc24.webp" group-title="Français", BX1
@@ -739,6 +739,10 @@ http://livetv.ktv.zone/1/play.m3u8
 http://livetv.ktv.zone/2/play.m3u8
 #EXTINF:-1 tvg-id="rougetv.fr" tvg-logo="https://mytelevision.tv/assets/img/chaines/rougetv.png" group-title="Français", Rouge TV
 https://185.125.25.66:443/livecast/rougetv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ CINEMA HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZICMrfq9MvQbvt-oIViC-c7he1wRAN6C8qZ3sjmB6g3uKKcdBESUUWE1TiDJMIB-RnFmrgyUSw0qkdrgi5g4Sgg.png" group-title="Français",CANAL+ CINEMA HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/286788.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ FHD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZHwXZm2fTkDAI8072lq57hPrk2WKQk3YzdMReEeUtyk60EJjqDfkrQ0qkBAEgV29zFRX9fP8CJ0_rgYhKmqt-dQ.png" group-title="Français",CANAL+ FHD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/286796.ts
 #EXTINF:-1 tvg-id="tvm3.fr" tvg-logo="https://www.freeetv.com/images/01_logo/tvm3.jpg" group-title="Français", TVM3
 https://edge13.vedge.infomaniak.com/livecast/tvm3/chunklist_w1672489244.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="LCI.fr" tvg-logo="https://photos.tf1.fr/0/56/logo-lci-2020-min-a0978b-c7794e-0@3x.png",LCI
@@ -772,7 +776,9 @@ https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2h
 #EXTINF:-1 tvg-id="supertoons.fr" tvg-logo="https://supertoons.bg/wp-content/uploads/2020/12/Logo-Small-2.png" group-title="Jeunesse", Supertoons TV
 https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="canalj.fr" tvg-country="FR" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_j_fr.png" group-title="Jeunesse",Canal J
-http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13108
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/286777.ts
+#EXTINF:-1 tvg-id="" tvg-name="FR| CARTOON NETWORK HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZnWG5hMB6P64UWShEnis_EdvTS2ULXfIIpztoBnM2qb--BuGlQ1A2x1ZzJyusDDM539dmbLgNGGweG4X7m2vQ2w.png" group-title="Français",CARTOON NETWORK HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/286809.ts
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL FRANCE" tvg-logo="" group-title="",FR: GOLF CHANNEL FRANCE
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13074
 #EXTINF:-1 tvg-id="" tvg-name="FR: GOLF" tvg-logo="" group-title="",FR: GOLF
@@ -783,34 +789,22 @@ https://raw.githubusercontent.com/Sibprod/streams/main/files/Reworld/Gourmand-TV
 https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1,SportsGrid
 https://sportsgrid-xumo-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="fs1.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FOX SPORTS 1 HD
-https://m3u-editor.com/serve/xromtv-xrom-tv-2022-xromtv/704069213
-#EXTINF:-1 tvg-id="fs2.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_2.png" group-title="Sports",FOX SPORTS 2 HD
-https://m3u-editor.com/serve/xromtv-xrom-tv-2022-xromtv/704079622
-#EXTINF:-1 tvg-id="beinextra.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_us.png" group-title="Sports",BEIN Xtra
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
-#EXTINF:-1 tvg-id="foxsportdetroit.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_global.png" group-title="Sports",FOX SPORTS DETROIT HD
-http://89.187.175.143:80/3115/index.m3u8
-#EXTINF:-1 tvg-id="foxsportnorth.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_global.png" group-title="Sports",FOX SPORTS NORTH HD
-http://89.187.175.143:80/3113/index.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Français",L'EQUIPE LIVE 1
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sports",L'EQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/1.m3u8
-#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Français",L'EQUIPE LIVE 2
+#EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sports",L'EQUIPE LIVE 2
 https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/swiss.png" group-title="Français",Swiss Sport
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mvLY9FN.png" tvg-id="Pac12Networks.us" tvg-name="Pac-12 Network",Pac-12 Network HD
-http://destiny4k.com:2086/live/1W6uGX4tHo/GOqXqgMrgsAKL3BeTaCB/2845.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="CANAL+",Cine+ Premier
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="Français",Cine+ Premier
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13098
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="CANAL+",Cine+ Emotion
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/CinePlusEmotion.svg/1200px-CinePlusEmotion.svg.png" group-title="Français",Cine+ Emotion
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13101
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="CANAL+",Cine+ Frisson
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/CinePlusFrisson.svg/1280px-CinePlusFrisson.svg.png" group-title="Français",Cine+ Frisson
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13099
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="CANAL+",Cine+ Club
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/CinePlusClub_Logo.svg/1280px-CinePlusClub_Logo.svg.png" group-title="Français",Cine+ Club
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13102
-#EXTINF:-1 tvg-chno="255" tvg-id="SonyMoviesUSA.us" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
-https://m3u-editor.com/serve/xromtv-xrom-tv-2022-xromtv/712849288
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SERIES HD" tvg-logo="http://live.phenixiptv.com:8080/images/3g3pPpn683RjmFf9NReXSP7VtVGVdC-bYbM14JftXKgr4vryXh-t1bDeILZE8XeZICMrfq9MvQbvt-oIViC-c7he1wRAN6C8qZ3sjmB6g3uKKcdBESUUWE1TiDJMIB-RnFmrgyUSw0qkdrgi5g4Sgg.png" group-title="Français",CANAL+ SERIES HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/286806.ts
 #EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS ARIZONA│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsarizona.png" group-title="Sports",BALLY SPORTS ARIZONA
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217611.ts
 #EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS ARIZONA PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsarizonaplus.png" group-title="Sports",BALLY SPORTS ARIZONA PLUS
