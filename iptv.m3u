@@ -762,7 +762,7 @@ http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13075
 #EXTINF:-1 tvg-id="gourmandtv.fr" tvg-country="FR" tvg-logo="https://pbs.twimg.com/media/EmY-yM7XEAEFb1v.png" group-title="Français", Gourmand TV
 https://raw.githubusercontent.com/Sibprod/streams/main/files/Reworld/Gourmand-TV/master.m3u8
 #EXTINF:-1 tvg-id="maisonettravaux.fr" tvg-country="FR" tvg-logo="https://www.reworldmedia.com/wp-content/uploads/2021/10/MT.png" group-title="Français", Maison & Travaux
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/maison-travaux-tv
+https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sdi2aweg8u1y4/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1,SportsGrid
 https://sportsgrid-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="fs1.us" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png" group-title="Sports",FOX SPORTS 1 HD
@@ -778,7 +778,7 @@ http://89.187.175.143:80/3113/index.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Français",L'EQUIPE LIVE 1
 https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/1.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Français",L'EQUIPE LIVE 2
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/2.m3u8
+https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/swiss.png" group-title="Français",Swiss Sport
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/mvLY9FN.png" tvg-id="Pac12Networks.us" tvg-name="Pac-12 Network",Pac-12 Network HD
@@ -857,4 +857,9 @@ https://5b31b343db684f2d897b12cc1793defb.mediatailor.us-east-1.amazonaws.com/v1/
 https://dc87c2cd402c4403a3f577a2be3925fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_RakutenActionMovies/playlist.m3u8?ads.wurl_channel=447&ads.wurl_name=RakutenActionMovies&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-FRBA33000365W" tvg-id="FRBA33000365W" tvg-chno="4165" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA33000365W_20230510T043936SQUARE.png_20230510043937.png" group-title="Séries TV" , Crime - Rakuten TV
 https://732a989f787242b69e4d2fefa755821b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-fr_Crime/playlist.m3u8?ads.wurl_channel=1461&ads.wurl_name=Crime&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-FRAJ38000089S" tvg-id="FRAJ38000089S" tvg-chno="4210" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRAJ38000089S_20221026T004310SQUARE.png_20221026004310.png" group-title="Français" , Pluto TV Polar
+https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffebbeabd18520007b37709/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&embedPartner=samsung-tvplus&gdprConsent=%7BTC_STRING%7D&gdpr=1
+#EXTINF:-1 channel-id="samsung-FRBC3300009EA" tvg-id="FRBC3300009EA" tvg-chno="4425" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3300009EA_20230712T021551SQUARE.png_20230712021551.png" group-title="Français" , MasterChef
+https://d3ogvsjhr301yh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ecfucb9qnj105-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 channel-id="samsung-FRBB3900001PZ" tvg-id="FRBB3900001PZ" tvg-chno="4435" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB3900001PZ_20220323T080447SQUARE.png_20220323080450.png" group-title="Français" , Chefclub TV
 
