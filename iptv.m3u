@@ -84,8 +84,10 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 https://amc-amcpresents-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="USA",AMC Rush
 https://amc-rushbyamc-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="USA",AMC The Wlaking Dead
-https://amc-twdfanexperience-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/amc-us.png" group-title="USA",The Walking Dead Universe
+https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="USA",AMC Thrillers
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://icon-library.com/images/cbs-icon/cbs-icon-19.jpg" group-title="USA",CBS
 https://dai2-playlistserver.aws.syncbak.com/playlist/13681888/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjgxODg4LCJtZDUiOiJhMmQ5MWZkZTQ1Y2E4N2Q1NTJjYTkwYjIyYWY0OTI5MyIsImlhdCI6MTUwMTYxNDQyMSwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.RXktadk3pf_yX7ptBJXhO_2rOhbLlUop2SPKVz2h4hs
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/American_Broadcasting_Company_Logo_2013.png" group-title="USA",ABC
@@ -96,8 +98,8 @@ https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.wnbc.new
 https://list.iptvcat.com/my_list/s/25f7799876ffda78dded9c1b6edc43e7.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="WPXN.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",WPXN
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION.m3u8
-#EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",iON Mystery
-https://csm-e-cetubiausw2live204-02b00c58a74a94aa3.csm.tubi.video/csm/extlive/tubiprd01,ION-Mystery.m3u8
+#EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",ION Mystery
+https://scripps-ionmystery-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="186" tvg-id="YTA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10982_dark_360w_270h.png",YTA
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:-1 group-title="Local News",Boston MA - WCVB Channel 5
@@ -862,4 +864,10 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ffe
 #EXTINF:-1 channel-id="samsung-FRBC3300009EA" tvg-id="FRBC3300009EA" tvg-chno="4425" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3300009EA_20230712T021551SQUARE.png_20230712021551.png" group-title="Français" , MasterChef
 https://d3ogvsjhr301yh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ecfucb9qnj105-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 #EXTINF:-1 channel-id="samsung-FRBB3900001PZ" tvg-id="FRBB3900001PZ" tvg-chno="4435" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB3900001PZ_20220323T080447SQUARE.png_20220323080450.png" group-title="Français" , Chefclub TV
+#EXTINF:-1 group-title="USA",The Grio
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-blacknewsnetwork-vizio/playlist.m3u8
+#EXTINF:-1 group-title="USA",Cinevault 80's
+https://gsn-cinevault-80s-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA",Cinevault Murder and Mayhem
+https://gsn-cinevault-70s-1-us.vizio.wurl.tv/playlist.m3u8
 
