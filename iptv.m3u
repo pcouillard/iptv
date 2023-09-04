@@ -919,7 +919,25 @@ https://rakuten-guardian-1-fr.xiaomi.wurl.tv/playlist.m3u8
 http://appleiptv.com:80/1240/1240/101857
 #EXTINF:-1 tvg-id="" tvg-name="US NFL RedZone (S)" tvg-logo="" group-title="Sports",US NFL RedZone (S)
 http://appleiptv.com:80/1240/1240/101858
-#EXTINF,Test
-https://raw.githubusercontent.com/Arkina1234/hls/main/wabc-dt1.m3u8
-
-
+#EXTINF:-1 tvg-id="" tvg-name="aljazeera" tvg-logo="https://e7.pngegg.com/pngimages/374/685/png-clipart-al-jazeera-english-al-jazeera-media-network-television-channel-broadcasting-arabic-calligraphy-television-text.png" group-title="News",Al-Jazzera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/d/de/WCAX_logo.png" group-title="News",3.6 - WCAX-TV 3 News Now Burlington VT
+http://dai2-playlistserver.aws.syncbak.com/playlist/13627342/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjI3MzQyLCJtZDUiOiJkNDI3NmYwMTJlMTAwNzBhZmE1MzQ5Y2Q3NGJkZDJhZiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.Dsfud-ksBdsOoudnh790ABGOq-x6E2CJCyV_bELOTDg
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LFbxI9m.png" group-title="Musique",Classic Rock Network
+https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/5f8ece1a89d79800072510e6/colorLogoPNG.png" group-title="Films",The Asylum (FR)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ece1a89d79800072510e6/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/611e771e2f5f180007002224/colorLogoPNG.png" group-title="Français",Histoire | Pluto TV 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611e771e2f5f180007002224/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/colorLogoPNG.png" group-title="Français",Inside | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed3892ed7bb000741a1d2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" group-title="Français",Investigation | Pluto TV 
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f4b36d67d0007a91a04/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/colorLogoPNG.png" group-title="Français",Les Nouveaux Detectives | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edb6df1ebb800072edf10/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/5f8ed58b2db26f0007b4aa73/colorLogoPNG.png" group-title="Français",Nature | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2db26f0007b4aa73/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" group-title="Français",Voyage | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG.png" group-title="Français",Dossiers FBI | Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edad922b10b000753bc37/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
