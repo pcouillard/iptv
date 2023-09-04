@@ -983,3 +983,21 @@ http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213858.ts
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213859.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA: AMC HD" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="Canada",AMC HD
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213860.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: ANIMAL PLANET HD" tvg-logo="https://logo.iptveditor.com/animalplanet.png" group-title="Canada",ANIMAL PLANET HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213861.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: BBC AMERICA" tvg-logo="https://logo.iptveditor.com/bbcamerica.png" group-title="Canada",BBC AMERICA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213862.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: BBC EARTH" tvg-logo="https://logo.iptveditor.com/bbcearth.png" group-title="Canada",BBC EARTH
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213863.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CHCH HD" tvg-logo="https://logo.iptveditor.com/chch.png" group-title="Canada",CHCH HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213864.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CMT HD" tvg-logo="https://logo.iptveditor.com/cmt.png" group-title="Canada",CMT HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213865.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: COOKING CHANNEL HD" tvg-logo="https://logo.iptveditor.com/cookingchannel.png" group-title="Canada",COOKING CHANNEL HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213866.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CRIME & INVESTIGATION HD" tvg-logo="https://logo.iptveditor.com/crimeinvestigation.png" group-title="Canada",CRIME & INVESTIGATION HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213867.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: DEJAVIEW" tvg-logo="https://logo.iptveditor.com/dejaview.png" group-title="Canada",DEJAVIEW
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213868.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: DISCOVERY HD" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="Canada",DISCOVERY HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213869.ts
