@@ -1019,3 +1019,15 @@ http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213888.ts
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213889.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA: PARAMOUNT NETWORK HD" tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="Canada",PARAMOUNT NETWORK HD
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213890.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SLICE" tvg-logo="https://logo.iptveditor.com/slice.png" group-title="Canada",SLICE
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213892.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SMITHSONIAN CHANNEL HD" tvg-logo="https://logo.iptveditor.com/smithsonianchannel.png" group-title="Canada",SMITHSONIAN CHANNEL HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213893.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SUPER CHANNEL HEART & HOME" tvg-logo="https://logo.iptveditor.com/superchannelhearthome.png" group-title="Canada",SUPER CHANNEL HEART & HOME
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213894.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: TRAVEL ESCAPE" tvg-logo="https://logo.iptveditor.com/travelescape.png" group-title="Canada",TRAVEL ESCAPE
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213898.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: WILD TV" tvg-logo="https://logo.iptveditor.com/wildtv.png" group-title="Canada",WILD TV
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213899.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: DISCOVERY VELOCITY" tvg-logo="https://logo.iptveditor.com/discoveryvelocity.png" group-title="Canada",DISCOVERY VELOCITY
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213900.ts
