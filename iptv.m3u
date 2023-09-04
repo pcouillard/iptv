@@ -4,12 +4,16 @@
 # * https://bcovlive-a.akamaihd.net/bea11a7dfef34b08be06aaca4a72bcdf/us-east-1/6141518204001/playlist.m3u8
 # * EXTINF:0 tvg-id="New England Sports Network Plus" tvg-country="US" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nesn-us.png" group-title="Sports",NESN+
 # * https://bcovlive-a.akamaihd.net/f1fe983d710642b08c2232d4f5e1bb49/us-east-1/6141518204001/profile_0/chunklist.m3u8
+# * #EXTINF:-1 tvg-id="Canal Vie" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-vie-ca.png" group-title="Québec",CANAL VIE
+# * http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156089
+# * EXTINF:-1 tvg-id="VRAK" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vrak_tv_ca.png" group-title="Québec",VRAK TV
+# * http://mytv.fun:80/5vv58jngf/bywihbp8lw/53705
 # ********************************************************************************************
 #EXTM3U url-tvg="http://xmltv.bigsb.fr/xmltv.xml"
 #EXTINF:-1 tvg-chno="325" tvg-id="NESN.us" tvg-name="NESN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35038_dark_360w_270h.png" group-title="Sports",NESN
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/new.england.sports.network.us.m3u8
+http://appleiptv.com:80/1240/1240/27638
 #EXTINF:-1 tvg-chno="326" tvg-id="NESNPlus.us" tvg-name="NESN+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63198_dark_360w_270h.png" group-title="Sports",NESN+
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/new.england.sports.network.plus.us.m3u8
+http://appleiptv.com:80/1240/1240/27639
 #EXTINF:0 tvg-id="I723.72976.zap2it.com" tvg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/noovo-ca.png" group-title="Québec",Noovo
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTINF:0 tvg-id="I734.58759.zap2it.com" tvg-country="CA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-ca.png" group-title="Québec",TVA
@@ -89,13 +93,13 @@ https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat.com/logo/tv/aa/amc-us.png" group-title="USA",AMC Thrillers
 https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://icon-library.com/images/cbs-icon/cbs-icon-19.jpg" group-title="USA",CBS
-https://dai2-playlistserver.aws.syncbak.com/playlist/13681888/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjgxODg4LCJtZDUiOiJhMmQ5MWZkZTQ1Y2E4N2Q1NTJjYTkwYjIyYWY0OTI5MyIsImlhdCI6MTUwMTYxNDQyMSwiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.RXktadk3pf_yX7ptBJXhO_2rOhbLlUop2SPKVz2h4hs
+http://appleiptv.com:80/1240/1240/27752
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e7/American_Broadcasting_Company_Logo_2013.png" group-title="USA",ABC
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/abc.wabc.new.york.ny.us.m3u8
+http://appleiptv.com:80/1240/1240/28059
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nbc_us_central.png" group-title="USA",NBC
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nbc.wnbc.new.york.ny.us.m3u8
+http://appleiptv.com:80/1240/1240/28001
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/fox.png" group-title="USA",Fox
-https://list.iptvcat.com/my_list/s/25f7799876ffda78dded9c1b6edc43e7.m3u8
+http://appleiptv.com:80/1240/1240/27860
 #EXTINF:-1 tvg-chno="3" tvg-id="WPXN.us" tvg-name="WPXN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",WPXN
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="ionMystery" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18633_dark_360w_270h.png" group-title="USA",ION Mystery
@@ -148,8 +152,8 @@ https://moviesphere-roku.amagi.tv/playlist.m3u8
 https://magselect-stirr.amagi.tv/playlist1080p.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/wildside.png" group-title="Films",Wild Side
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/3000.m3u8
-#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/usa.png" group-title="USA",USA Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
+#EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://rndserv.xyz/img/usa.png" group-title="USA",USA Network West
+http://appleiptv.com:80/1240/1240/27573
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://ionplustv.com/static/global/IONPlusDefault.jpg" group-title="USA",iON Plus
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,ION-Plus.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/acc-network-us.png" group-title="Sports",ACC Network
@@ -169,9 +173,9 @@ http://24.49.248.51:8000/_a
 #EXTINF:-1 tvg-id="ZTele" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/z_tele_ca.png" group-title="Québec",Z TELE (HD)
 http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156101
 #EXTINF:-1 tvg-id="Canal D" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal_d.png" group-title="Québec" ,CANALD (HD)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/632740
+http://appleiptv.com:80/1240/1240/31787
 #EXTINF:-1 tvg-id="Historia" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/historia_ca.png" group-title="Québec" ,HISTORIA (HD)
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156008
+http://appleiptv.com:80/1240/1240/31794
 #EXTINF:-1 tvg-id="Series" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/series-plus-ca.png" group-title="Québec" ,SERIES (HD)
 http://mytv.fun:80/5vv58jngf/bywihbp8lw/53726
 #EXTINF:-1 tvg-id="Super Ecran 1" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_ecran1.png" group-title="Québec" ,SUPER ECRAN 1 (HD)
@@ -181,7 +185,7 @@ http://mytv.fun:80/5vv58jngf/bywihbp8lw/632630
 #EXTINF:-1 tvg-id="Super Ecran 3" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_ecran3.png" group-title="Québec" ,SUPER ECRAN 3 (HD)
 http://mytv.fun:80/5vv58jngf/bywihbp8lw/632629
 #EXTINF:-1 tvg-id="Super Ecran 4" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/super_ecran4.png" group-title="Québec" ,SUPER ECRAN 4 (HD)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/632628
+http://appleiptv.com:80/1240/1240/31872
 #EXTINF:-1 tvg-id="TVASports" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tva-sports-ca.png" group-title="Québec" ,TVA SPORTS (HD)
 http://mytv.fun:80/5vv58jngf/bywihbp8lw/690083
 #EXTINF:0 tvg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tva-sports-2-ca.png" group-title="Québec",TVA Sports 2 (TV)(720)
@@ -189,29 +193,28 @@ http://revteam4.offshorerev.cc:80/SPIDER_hjiIwL/oeSTUYFK4R/112478
 #EXTINF:-1 tvg-id="Max" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/max_ca.png" group-title="Québec",MAX (HD)
 http://mytv.fun:80/5vv58jngf/bywihbp8lw/53735
 #EXTINF:-1 tvg-id="RDS" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds_ca.png" group-title="Québec",RDS (FR)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/696745
+http://appleiptv.com:80/1240/1240/31803
 #EXTINF:-1 tvg-id="RDS2" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds_ca_2.png" group-title="Québec",RDS 2 (FR)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/696746
+http://appleiptv.com:80/1240/1240/31804
 #EXTINF:-1 tvg-id="RDSINFO" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rds_ca_info.png" group-title="Québec",RDS INFO (FR)
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156049
-#EXTINF:-1 tvg-id="Canal Vie" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/canal-vie-ca.png" group-title="Québec",CANAL VIE
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156089
-#EXTINF:-1 tvg-id="VRAK" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vrak_tv_ca.png" group-title="Québec",VRAK TV
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/53705
+http://appleiptv.com:80/1240/1240/31805
+
+#EXTINF:-1 tvg-id="amitele.ca" tvg-name="CA AMI-télé FR" tvg-logo="" group-title="Québec",CA AMI-Télé FR
+http://appleiptv.com:80/1240/1240/31661
 #EXTINF:-1 tvg-id="Addik" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/addik_tv.png" group-title="Québec",ADDIK (FR)
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/155924
+http://appleiptv.com:80/1240/1240/31783
 #EXTINF:-1 tvg-id="Yoopa" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/yy/yoopa.png" group-title="Québec",YOOPA (FR)
 http://mytv.fun:80/5vv58jngf/bywihbp8lw/53700
 #EXTINF:-1 tvg-id="TFO" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tfo-ca.png" group-title="Québec",TFO HD (FR)
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156072
+http://appleiptv.com:80/1240/1240/31704
 #EXTINF:-1 tvg-id="UNIS TV" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/unis_ca.png" group-title="Québec",Unis TV HD (FR)
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/53698
+http://appleiptv.com:80/1240/1240/31700
 #EXTINF:-1 tvg-id="TV5" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv-5-quebec-canada-fr-ca.png" group-title="Québec",TV5 Québec HD (FR)
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156086
+http://appleiptv.com:80/1240/1240/31808
 #EXTINF:-1 tvg-id="Evasion" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/evasion-ca.png" group-title="Québec",Évasion (FR)
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/155986
+http://appleiptv.com:80/1240/1240/31793
 #EXTINF:-1 tvg-id="Casa" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/casa-ca.png" group-title="Québec",CASA
-http://mytv.fun:80/5vv58jngf/bywihbp8lw/53738
+http://appleiptv.com:80/1240/1240/31789
 #EXTINF:-1 tvg-id="Moi et Cie" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/moi-et-cie-ca.png" group-title="Québec",MOI CIE
 http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156025
 #EXTINF:-1 tvg-id="Zeste" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/zz/zeste-ca.png" group-title="Québec",ZESTE HD
@@ -227,7 +230,7 @@ http://revteam4.offshorerev.cc:80/SPIDER_hjiIwL/oeSTUYFK4R/112502
 #EXTINF:-1 tvg-id="ICIArtTV" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/ici-artv-ca.png" group-title="Québec",CA ICI ARTV HD
 http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/155929
 #EXTINF:-1 tvg-id="Teletoon" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/teletoon_quebec.png" group-title="Québec",CA (FR) TELETOON HD
-http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/156070
+http://appleiptv.com:80/1240/1240/31705
 #EXTINF:-1 tvg-id="Cinepop" tfg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinepop-ca.png" group-title="Québec",CA (FR) Cinepop HD
 http://revteam5.offshorerev.cc:80/SPIDER_hRdzBc/tPp1soeO7v/155949
 #EXTINF:-1 tvg-chno="515" tvg-id="TV5MONDEEtatsUnis(French).us" tvg-name="TV5Monde" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s19059_dark_360w_270h.png" group-title="Québec",TV5Monde Info
@@ -239,13 +242,9 @@ http://mytv.fun:80/5vv58jngf/bywihbp8lw/12787
 #EXTINF:0 tvg-country="CH" tvg-logo="https://www.onetv.ch/wp-content/uploads/2017/02/xlogo_v04.png.pagespeed.ic.O0s1XoQvqX.webp" group-title="Français",OneTV Suisse
 https://edge15.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8?spark=73a84a17-bfd3-4577-9d5e-776f0d573bbe&token=
 #EXTINF:-1 tvg-id="TNTEast.us" tvg-name="TNT (East)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="USA",TNT (East)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="TNTWest.us" tvg-name="TNT (West)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xvL9KPI.png" group-title="USA",TNT (West)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+http://appleiptv.com:80/1240/1240/27537
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS (East)" tvg-country="US" tvg-language="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs_east.png" group-title="USA",TBS (East)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TBS-West" tvg-country="" tvg-language="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs_east.png" group-title="USA",TBS (West)
-https://tve-live-lln.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+http://appleiptv.com:80/1240/1240/27538
 #EXTINF:-1 tvg-chno="178" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.us.m3u8
 #EXTINF:-1 tvg-chno="179" tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2
@@ -453,9 +452,9 @@ https://rakuten-thriller-7-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="166" tvg-id="USANetworkEast.us" tvg-name="USA Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11207_dark_360w_270h.png" group-title="USA",USA Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/usa.network.east.us.m3u8
 #EXTINF:-1 tvg-chno="167" tvg-id="SyfyEast.us" tvg-name="SYFY" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11097_dark_360w_270h.png" group-title="Movies",SYFY
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/syfy.eastern.us.m3u8
+http://appleiptv.com:80/1240/1240/27546
 #EXTINF:-1 tvg-chno="212" tvg-id="ParamountNetworkEast.us" tvg-name="Paramount Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11163_dark_360w_270h.png" group-title="USA",Paramount Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/paramount.network.usa.eastern.us.m3u8
+http://appleiptv.com:80/1240/1240/27566
 #EXTINF:-1 tvg-chno="214" tvg-id="FXEast.us" tvg-name="FX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Movies",FX
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fx.networks.east.coast.us.m3u8
 #EXTINF:-1 tvg-chno="220" tvg-id="BBCAmericaEast.us" tvg-name="BBC America" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="USA",BBC America
@@ -661,7 +660,7 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="matele.fr" tvg-logo="https://www.lyngsat-stream.com/logo/tv/mm/matele-fr.png",Ma Télé France
 https://5dd226f8f01e8.streamlock.net/via-matele-live/matelelive_1080/playlist.m3u8
 #EXTINF:-1 group-title="Français" tvg-id="6ter.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/num/6ter_fr.png",6Ter France
-https://list.iptvcat.com/my_list/s/7c78f3b38cdb6349ee834c57b0cac850.m3u8
+http://appleiptv.com:80/1240/1240/82871
 # https://s14.tntendirect.com/6ter/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMiAzOjIzOjM5IFBNJmhhc2hfdmFsdWU9TGExUlVKOU8xaXd5YkNtRUR3RTg3Zz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="Français" tvg-id="w9.fr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/w9_fr.png",W9 France
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12950
@@ -712,7 +711,7 @@ https://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/d5rlvjgg/2628/chunklis
 #EXTINF:-1 tvg-logo="http://kmedianet.es/wp-content/uploads/2016/07/TV_FR_Teva.jpg" group-title="Français", Téva
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/12984
 #EXTINF:-1 tvg-logo="https://cdn.tv-programme.com/pic/chaines/33.png" group-title="Français", 13eme Rue
-https://list.iptvcat.com/my_list/s/b95b79ce861362a8901484871a7fa6e7.m3u8
+http://appleiptv.com:80/1240/1240/82870
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/965ea388c91bb303d5621e2b4044cfde.webp" group-title="Français", Tébéo
 https://start-1.direct.live/hls/tebeo_low/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6befe82041052a3099ed0680bf9ddc24.webp" group-title="Français", BX1
@@ -916,6 +915,10 @@ https://rakuten-topfree-7-fr.xiaomi.wurl.tv/playlist.m3u8
 https://rakuten-thriller-7-fr.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Films",Rakuten Guardian (FR)
 https://rakuten-guardian-1-fr.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="US NFL Network (S)" tvg-logo="" group-title="Sports",US NFL Network (S)
+http://appleiptv.com:80/1240/1240/101857
+#EXTINF:-1 tvg-id="" tvg-name="US NFL RedZone (S)" tvg-logo="" group-title="Sports",US NFL RedZone (S)
+http://appleiptv.com:80/1240/1240/101858
 
 
 
