@@ -1001,3 +1001,21 @@ http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213867.ts
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213868.ts
 #EXTINF:-1 tvg-id="" tvg-name="CA: DISCOVERY HD" tvg-logo="https://logo.iptveditor.com/discovery.png" group-title="Canada",DISCOVERY HD
 http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213869.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: DISCOVERY SCIENCE HD" tvg-logo="https://logo.iptveditor.com/discoveryscience.png" group-title="Canada",DISCOVERY SCIENCE HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213870.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: H2" tvg-logo="https://i.ibb.co/0BGSc13/h2cahne.png" group-title="Canada",History 2
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213877.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: HGTV" tvg-logo="https://i.ibb.co/ckqYDrF/hgtcwsd.png" group-title="Canada",HGTV
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213878.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: HISTORY HD" tvg-logo="https://i.ibb.co/vBfdX9y/44tredfgrdfvdszc.png" group-title="Canada",HISTORY HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213879.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: INVESTIGATION DISCOVERY HD" tvg-logo="https://logo.iptveditor.com/investigationdiscovery.png" group-title="Canada",INVESTIGATION DISCOVERY HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213882.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: LIFETIME HD" tvg-logo="https://logo.iptveditor.com/lifetime.png" group-title="Canada",LIFETIME HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213883.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: NAT GEO HD" tvg-logo="https://logo.iptveditor.com/natgeo.png" group-title="Canada",NAT GEO HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213888.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: NAT GEO WILD HD" tvg-logo="https://logo.iptveditor.com/natgeowild.png" group-title="Canada",NAT GEO WILD HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213889.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: PARAMOUNT NETWORK HD" tvg-logo="https://logo.iptveditor.com/paramountnetwork.png" group-title="Canada",PARAMOUNT NETWORK HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213890.ts
