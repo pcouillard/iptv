@@ -247,23 +247,23 @@ http://appleiptv.com:80/1240/1240/27537
 #EXTINF:-1 tvg-id="TBSEast.us" tvg-name="TBS (East)" tvg-country="US" tvg-language="English" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tbs_east.png" group-title="USA",TBS (East)
 http://appleiptv.com:80/1240/1240/27538
 #EXTINF:-1 tvg-chno="178" tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Sports",ESPN
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217660.ts
 #EXTINF:-1 tvg-chno="179" tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Sports",ESPN 2
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn2.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217661.ts
 #EXTINF:-1 tvg-chno="180" tvg-id="ESPNU.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPN U
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.u.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217664.ts
 #EXTINF:-1 tvg-chno="181" tvg-id="ESPNEWS.us" tvg-name="ESPNEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Sports",ESPNEWS
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/espn.news.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217663.ts
 #EXTINF:-1 tvg-chno="182" tvg-id="FoxSports1.us" tvg-name="FS1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s82547_dark_360w_270h.png" group-title="Sports",FS1
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.sports.1.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217670.ts
 #EXTINF:-1 tvg-chno="183" tvg-id="FoxSports2.us" tvg-name="FS2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59305_dark_360w_270h.png" group-title="Sports",FS2
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/fox.sports.2.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217671.ts
 #EXTINF:-1 tvg-chno="184" tvg-id="CBSSportsNetwork.us" tvg-name="CBS Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" group-title="Sports",CBS Sports Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cbs.sports.network.usa.us.m3u8
 #EXTINF:-1 tvg-chno="185" tvg-id="BigTenNetwork.us" tvg-name="Big Ten Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s56783_dark_360w_270h.png" group-title="Sports",Big Ten Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/big.ten.network.us.m3u8
 #EXTINF:-1 tvg-chno="186" tvg-id="GolfChannel.us" tvg-name="Golf Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Sports",Golf Channel
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/golf.channel.usa.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217675.ts
 #EXTINF:-1 tvg-chno="187" tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Sports",MLB Network
 https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mlb.network.us.m3u8
 #EXTINF:-1 tvg-chno="188" tvg-id="NBATV.us" tvg-name="NBA TV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s32281_dark_360w_270h.png" group-title="Sports",NBA TV
@@ -474,68 +474,84 @@ https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmsl/hallmarkmsl/playlis
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkdmsl/hallmarkdmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
 #EXTINF:-1 tvg-chno="248" tvg-id="HallmarkMoviesMysteriesEast.us" tvg-name="Hallmark Movies & Mysteries" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s46710_dark_360w_270h.png" group-title="USA",Hallmark Movies & Mysteries
 https://frndlymsl.akamaized.net/hls/live/2006424/hallmarkmmsl/hallmarkmmsl/playlist.m3u8?hdnts=st=1606053234~exp=3216054041~acl=*~hmac=208d261d9f98d76a5ac30aa2ce51751f88ee50cfc24812b7cbea8b0397489a07
-#EXTINF:-1 tvg-chno="255" tvg-id="SonyMoviesUSA.us" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/sony.movies.us.m3u8
-#EXTINF:-1 tvg-chno="260" tvg-id="HBOEast.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Movies",HBO
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="261" tvg-id="HBO2East.us" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10241_dark_360w_270h.png" group-title="Movies",HBO 2
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.2.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="262" tvg-id="HBOSignatureEast.us" tvg-name="HBO Signature" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10243_dark_360w_270h.png" group-title="Movies",HBO Signature
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.signature.hbo.3.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="263" tvg-id="HBOFamilyEast.us" tvg-name="HBO Family" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Movies",HBO Family
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.family.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="264" tvg-id="HBOComedyEast.us" tvg-name="HBO Comedy" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Movies",HBO Comedy
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.comedy.east.us.m3u8
-#EXTINF:-1 tvg-chno="265" tvg-id="HBOZoneEast.us" tvg-name="HBO Zone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Movies",HBO Zone
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/hbo.zone.east.us.m3u8
-#EXTINF:-1 tvg-chno="266" tvg-id="CinemaxEast.us" tvg-name="CINEMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10120_dark_360w_270h.png" group-title="Movies",CINEMAX
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/cinemax.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="267" tvg-id="ActionMaxEast.us" tvg-name="ActionMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59948_dark_360w_270h.png" group-title="Movies",ActionMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/actionmax.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="268" tvg-id="5StarMaxEast.us" tvg-name="5 Star MAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25620_dark_360w_270h.png" group-title="Movies",5 Star MAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/5.star.max.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="269" tvg-id="ThrillerMaxEast.us" tvg-name="ThrillerMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59954_dark_360w_270h.png" group-title="Movies",ThrillerMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/thrillermax.east.us.m3u8
-#EXTINF:-1 tvg-chno="270" tvg-id="MoreMaxEast.us" tvg-name="MoreMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10121_dark_360w_270h.png" group-title="Movies",MoreMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moremax.eastern.us.m3u8
-#EXTINF:-1 tvg-chno="271" tvg-id="MovieMaxEast.us" tvg-name="MovieMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59963_dark_360w_270h.png" group-title="Movies",MovieMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/moviemax.us.m3u8
-#EXTINF:-1 tvg-chno="272" tvg-id="OuterMaxEast.us" tvg-name="OuterMAX" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s25622_dark_360w_270h.png" group-title="Movies",OuterMAX
-https://tv4.live/api/stream/alex_079@hotmail.com/975248/livetv.epg/outermax.eastern.us.m3u8
 #EXTINF:-1 tvg-chno="316" tvg-id="Pac12Networks.us" tvg-name="Pac12 Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76366_dark_360w_270h.png" group-title="Sports",Pac12 Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/pac.12.network.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/239126.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 ARIZONA│SPORTS USA" tvg-logo="https://logo.iptveditor.com/spac12arizona.png" group-title="Sports",PAC 12 ARIZONA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217707.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 BAY AREA│SPORTS USA" tvg-logo="https://logo.iptveditor.com/spac12bayarea.png" group-title="Sports",PAC 12 BAY AREA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217708.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 LOS ANGELES│SPORTS USA" tvg-logo="https://logo.iptveditor.com/spac12losangeles.png" group-title="Sports",PAC 12 LOS ANGELES
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217709.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 MOUNTAIN│SPORTS USA" tvg-logo="https://logo.iptveditor.com/spac12mountain.png" group-title="Sports",PAC 12 MOUNTAIN
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217710.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 OREGON│SPORTS USA" tvg-logo="https://logo.iptveditor.com/spac12oregon.png" group-title="Sports",PAC 12 OREGON
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217711.ts
+#EXTINF:-1 tvg-id="" tvg-name="PAC 12 WASHINGTON│SPORTS USA" tvg-logo="https://logo.iptveditor.com/spac12washington.png" group-title="Sports",PAC 12 WASHINGTON
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217712.ts
 #EXTINF:-1 tvg-chno="317" tvg-id="ACCNetwork.us" tvg-name="ACC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="Sports",ACC Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/acc.network.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217604.ts
 #EXTINF:-1 tvg-chno="318" tvg-id="AltitudeSports.us" tvg-name="Altitude Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s44263_dark_360w_270h.png" group-title="Sports",Altitude Sports
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/altitude.sports.us.m3u8
-#EXTINF:-1 tvg-chno="319" tvg-id="LonghornNetwork.us" tvg-name="Longhorn Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76219_dark_360w_270h.png" group-title="Sports",Longhorn Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/longhorn.network.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217605.ts
+#EXTINF:-1 tvg-id="" tvg-name="ALTITUDE SPORTS 2│SPORTS USA" tvg-logo="https://logo.iptveditor.com/altitudesports.png" group-title="Sports",Altitude Sports 2
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217606.ts
+#EXTINF:-1 tvg-id="" tvg-name="AT&T SPORTSNET PITTSBURGH│SPORTS USA" tvg-logo="https://logo.iptveditor.com/atandtsportsnetpittsburghcustom.png" group-title="Sports",AT&T SPORTSNET PITTSBURGH
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217607.ts
 #EXTINF:-1 tvg-chno="320" tvg-id="MarqueeSportsNetwork.us" tvg-name="Marquee Sports Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113768_dark_360w_270h.png" group-title="Sports",Marquee Sports Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/marquee.sports.network.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217678.ts
 #EXTINF:-1 tvg-chno="321" tvg-id="MASN.us" tvg-name="MASN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s59607_dark_360w_270h.png" group-title="Sports",MASN
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mid.atlantic.sports.network.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217679.ts
 #EXTINF:-1 tvg-chno="322" tvg-id="MASN2.us" tvg-name="MASN 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s66485_dark_360w_270h.png" group-title="Sports",MASN 2
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/mid.atlantic.sports.network.2.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217680.ts
+#EXTINF:-1 tvg-id="" tvg-name="MLB NETWORK FHD│SPORTS USA" tvg-logo="https://logo.iptveditor.com/foxsportsnetworks.png" group-title="Sports",MLB NETWORK FHD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217682.ts
 #EXTINF:-1 tvg-chno="323" tvg-id="MSG.us" tvg-name="MSG" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s10979_dark_360w_270h.png" group-title="Sports",MSG
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/msg.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217685.ts
 #EXTINF:-1 tvg-chno="324" tvg-id="MSGPlus.us" tvg-name="MSG+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s11105_dark_360w_270h.png" group-title="Sports",MSG+
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/msg.plus.us.m3u8
-#EXTINF:-1 tvg-chno="325" tvg-id="NESN.us" tvg-name="NESN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35038_dark_360w_270h.png" group-title="Sports",NESN
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/new.england.sports.network.us.m3u8
-#EXTINF:-1 tvg-chno="326" tvg-id="NESNPlus.us" tvg-name="NESN+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63198_dark_360w_270h.png" group-title="Sports",NESN+
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/new.england.sports.network.plus.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217686.ts
+#EXTINF:-1 tvg-id="" tvg-name="MSG 2 PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/msg+2.png" group-title="Sports",MSG 2 PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217687.ts
+#EXTINF:-1 tvg-id="" tvg-name="MSG PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/msg+.png" group-title="Sports",MSG PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217688.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC GOLF CHANNEL│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcgolfchannel.png" group-title="Sports",NBC GOLF CHANNEL
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217689.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS BAY AREA│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsportsbayarea.png" group-title="Sports",NBC SPORTS BAY AREA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217690.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS BAY AREA PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsportsbayarea.png" group-title="Sports",NBC SPORTS BAY AREA PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217691.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS BOSTON│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsnboston.png" group-title="Sports",NBC SPORTS BOSTON
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217692.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS CALIFORNIA│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsncalifornia.png" group-title="Sports",NBC SPORTS CALIFORNIA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217693.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS CHICAGO│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsnchicago.png" group-title="Sports",NBC SPORTS CHICAGO
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217694.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS CHICAGO PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsportschicagoplus.png" group-title="Sports",NBC SPORTS CHICAGO PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217695.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS NETWORK│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsportsnetwork.png" group-title="Sports",NBC SPORTS NETWORK
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217696.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS NORTHWEST│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsnnorthwest.png" group-title="Sports",NBC SPORTS NORTHWEST
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217697.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS PHILADELPHIA│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsnphiladelphia.png" group-title="Sports",NBC SPORTS PHILADELPHIA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217698.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS PHILLY PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsportschicagoplus.png" group-title="Sports",NBC SPORTS PHILLY PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217699.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS WASHINGTON│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsnwashington.png" group-title="Sports",NBC SPORTS WASHINGTON
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217700.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC SPORTS WASHINGTON PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nbcsnwashington.png" group-title="Sports",NBC SPORTS WASHINGTON PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217701.ts
+#EXTINF:-1 tvg-id="" tvg-name="NESN│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nesn.png" group-title="Sports",NESN
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217702.ts
+#EXTINF:-1 tvg-id="" tvg-name="NESN PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/nesnplus.png" group-title="Sports",NESN PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217703.ts
+#EXTINF:-1 tvg-id="" tvg-name="NFL NETWORK FHD│SPORTS USA" tvg-logo="https://logo.iptveditor.com/foxsportsnetworks.png" group-title="Sports",NFL NETWORK FHD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217704.ts
+#EXTINF:-1 tvg-id="" tvg-name="NHL NETWORK FHD│SPORTS USA" tvg-logo="https://logo.iptveditor.com/foxsportsnetworks.png" group-title="Sports",NHL NETWORK FHD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217705.ts
 #EXTINF:-1 tvg-chno="327" tvg-id="SECNetwork.us" tvg-name="SEC Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s89535_dark_360w_270h.png" group-title="Sports",SEC Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/sec.network.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217716.ts
+#EXTINF:-1 tvg-id="" tvg-name="ROOT SPORTS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/rootsports.png" group-title="Sports",ROOT SPORTS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217715.ts
 #EXTINF:-1 tvg-chno="328" tvg-id="YesNetwork.us" tvg-name="YES Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s30017_dark_360w_270h.png" group-title="Sports",YES Network
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/yes.network.us.m3u8
-#EXTINF:-1 tvg-chno="329" tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Sports",Tennis Channel
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/the.tennis.channel.us.m3u8
-#EXTINF:-1 tvg-chno="330" tvg-id="beINSportsUSA.us" tvg-name="beIN Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s76950_dark_360w_270h.png" group-title="Sports",beIN Sports
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/bein.sports.1.us.m3u8
-#EXTINF:-1 tvg-chno="331" tvg-id="GolTVSpanish.us" tvg-name="Gol TV English" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s33691_dark_360w_270h.png" group-title="Sports",Gol TV English
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/gol.tv.usa.us.m3u8
-#EXTINF:-1 tvg-chno="339" tvg-id="NFLRedZone.us" tvg-name="NFL RedZone" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s65024_dark_360w_270h.png" group-title="Sports",NFL RedZone
-https://tvnow.best/api/stream/mjma7584@icloud.com/472796/livetv.epg/nfl.red.zone.us.m3u8
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217733.ts
 #EXTINF:-1 tvg-id="ABCNews.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s113380_dark_360w_270h.png" group-title="News",ABC News Live
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="CBSNews.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" group-title="News",CBS News Live
@@ -795,28 +811,93 @@ http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13099
 http://extrasx.soeu.ws:80/panel/wgnHykJ96Y/13102
 #EXTINF:-1 tvg-chno="255" tvg-id="SonyMoviesUSA.us" tvg-name="Sony Movie Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s69130_dark_360w_270h.png" group-title="Movies",Sony Movie Channel
 https://m3u-editor.com/serve/xromtv-xrom-tv-2022-xromtv/712849288
-#EXTINF:0 group-title="Sports" tvg-id="6575" tvg-logo="http://epg.it999.ru/img2/6575.png" tvg-rec="0",Bally Sports Great Lakes
-http://he11o.akadatel.com/iptv/4PRXCCDZKQCWYD/19149/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="6576" tvg-logo="http://epg.it999.ru/img2/6576.png" tvg-rec="0",BALLY SPORTS SUN
-http://he11o.akadatel.com/iptv/4PRXCCDZKQCWYD/19150/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="6577" tvg-logo="http://epg.it999.ru/img2/6577.png" tvg-rec="0",BALLY SPORTS SOUTHEAST CAROLINAS
-http://he11o.akadatel.com/iptv/4PRXCCDZKQCWYD/19151/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="6578" tvg-logo="http://epg.it999.ru/img2/6578.png" tvg-rec="0",BALLY SPORTS NORTH
-http://he11o.akadatel.com/iptv/4PRXCCDZKQCWYD/19152/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="6579" tvg-logo="http://epg.it999.ru/img2/6579.png" tvg-rec="0",Bally SPORTS MIDWEST
-http://he11o.akadatel.com/iptv/4PRXCCDZKQCWYD/19153/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="6582" tvg-logo="http://epg.it999.ru/img2/6582.png" tvg-rec="0",ESPN+ USA
-http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19156/index.m3u8
-#EXTINF:0 group-title="Sports" tvg-id="6582" tvg-logo="http://epg.it999.ru/img2/6582.png" tvg-rec="0",ESPN 2 USA
-http://rn2yfxko.tvclub.xyz/iptv/WP3PZRYBCGTFUB/19155/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 1 EN ᴴᴰ" tvg-logo="https://dik.si/xGf7V" group-title="Sports",AR: beIN Sports 1 EN ᴴᴰ
-http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132297
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 2 EN ᴴᴰ" tvg-logo="https://dik.si/xGf7V" group-title="Sports",AR: beIN Sports 2 EN ᴴᴰ
-http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132298
-#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sports 3 EN ᴴᴰ" tvg-logo="https://dik.si/xGf7V" group-title="Sports",AR: beIN Sports 3 EN ᴴᴰ
-http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132299
-#EXTINF:-1 tvg-logo="https://dik.si/xGf7V" group-title="Sports",beIN Sports 1 English HD 🇬🇧
-http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test&v=697229347
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS ARIZONA│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsarizona.png" group-title="Sports",BALLY SPORTS ARIZONA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217611.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS ARIZONA PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsarizonaplus.png" group-title="Sports",BALLY SPORTS ARIZONA PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217612.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS DETROIT│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",BALLY SPORTS DETROIT
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217613.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS DETROIT PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsdetroitplus.png" group-title="Sports",BALLY SPORTS DETROIT PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217614.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS FLORIDA│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsflorida.png" group-title="Sports",BALLY SPORTS FLORIDA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217615.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS GREAT LAKES│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsgreatlakes.png" group-title="Sports",BALLY SPORTS GREAT LAKES
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217616.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS INDIANA│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsindiana.png" group-title="Sports",BALLY SPORTS INDIANA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217617.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS KANSAS CITY│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportskansascity.png" group-title="Sports",BALLY SPORTS KANSAS CITY
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217618.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS KANSAS CITY PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportskansascityplus.png" group-title="Sports",BALLY SPORTS KANSAS CITY PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217619.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS MIDWEST│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsmidwest.png" group-title="Sports",BALLY SPORTS MIDWEST
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217620.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS MIDWEST PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsmidwestplus.png" group-title="Sports",BALLY SPORTS MIDWEST PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217621.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS NEW ORLEANS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsneworleans.png" group-title="Sports",BALLY SPORTS NEW ORLEANS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217622.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS NEW ORLEANS PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsneworleansplus.png" group-title="Sports",BALLY SPORTS NEW ORLEANS PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217623.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS NORTH│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsnorth.png" group-title="Sports",BALLY SPORTS NORTH
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217624.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS NORTH PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsnorthplus.png" group-title="Sports",BALLY SPORTS NORTH PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217625.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS OHIO│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsohio.png" group-title="Sports",BALLY SPORTS OHIO
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217626.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS OHIO PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsohioplus.png" group-title="Sports",BALLY SPORTS OHIO PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217627.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS OKLAHOMA│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsoklahoma.png" group-title="Sports",BALLY SPORTS OKLAHOMA
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217628.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS OKLAHOMA PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsoklahomaplus.png" group-title="Sports",BALLY SPORTS OKLAHOMA PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217629.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SAN DIEGO│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportssandiego.png" group-title="Sports",BALLY SPORTS SAN DIEGO
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217630.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SAN DIEGO PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportssandiegoplus.png" group-title="Sports",BALLY SPORTS SAN DIEGO PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217631.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SOCAL│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportssocal.png" group-title="Sports",BALLY SPORTS SOCAL
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217632.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SOUTH│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportssouth.png" group-title="Sports",BALLY SPORTS SOUTH
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217633.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SOUTH PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportssouthplus.png" group-title="Sports",BALLY SPORTS SOUTH PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217634.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SOUTHEAST│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportssouth.png" group-title="Sports",BALLY SPORTS SOUTHEAST
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217635.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SOUTHEAST PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportssouthplus.png" group-title="Sports",BALLY SPORTS SOUTHEAST PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217636.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SOUTHWEST│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportssouthwest.png" group-title="Sports",BALLY SPORTS SOUTHWEST
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217637.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SOUTHWEST PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportssouthwestplus.png" group-title="Sports",BALLY SPORTS SOUTHWEST PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217638.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS SUN│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportssun.png" group-title="Sports",BALLY SPORTS SUN
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217639.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS WEST│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportswest.png" group-title="Sports",BALLY SPORTS WEST
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217640.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS WISCONSIN│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportswisconsin.png" group-title="Sports",BALLY SPORTS WISCONSIN
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217641.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLY SPORTS WISCONSIN PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportswisconsinplus.png" group-title="Sports",BALLY SPORTS WISCONSIN PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217642.ts
+#EXTINF:-1 tvg-id="" tvg-name="BALLYSPORTS INDIANA PLUS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/ballysportsindianaplus.png" group-title="Sports",BALLYSPORTS INDIANA PLUS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217643.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG TEN NETWORK│SPORTS USA" tvg-logo="https://logo.iptveditor.com/bigtennetwork.png" group-title="Sports",BIG TEN NETWORK
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217655.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG TEN OVERFLOW 1│SPORTS USA" tvg-logo="https://logo.iptveditor.com/bigtennetwork.png" group-title="Sports",BIG TEN OVERFLOW 1
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217656.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG TEN OVERFLOW 2│SPORTS USA" tvg-logo="https://logo.iptveditor.com/bigtennetwork.png" group-title="Sports",BIG TEN OVERFLOW 2
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217657.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIG TEN OVERFLOW 3│SPORTS USA" tvg-logo="https://logo.iptveditor.com/bigtennetwork.png" group-title="Sports",BIG TEN OVERFLOW 3
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217658.ts
+#EXTINF:-1 tvg-id="" tvg-name="CBS SPORTS NETWORK│SPORTS USA" tvg-logo="https://logo.iptveditor.com/cbssportsnetwork.png" group-title="Sports",CBS SPORTS NETWORK
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217659.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN│SPORTS USA" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Sports",ESPN
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217660.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2│SPORTS USA" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Sports",ESPN 2
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217661.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES│SPORTS USA" tvg-logo="https://logo.iptveditor.com/espndeportes.png" group-title="Sports",ESPN DEPORTES
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217662.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN NEWS│SPORTS USA" tvg-logo="https://logo.iptveditor.com/espnews.png" group-title="Sports",ESPN NEWS
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217663.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPN U│SPORTS USA" tvg-logo="https://logo.iptveditor.com/espnu.png" group-title="Sports",ESPN U
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/217664.ts
+
 #EXTINF:-1  tvg-id="foxweather.us" group-title="Weather" tvg-logo="https://uspto.report/TM/90583155/APP20210319131126/2.jpeg",FOX WEATHER
 https://247wlive.foxweather.com/stream/index.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/acc-network-us.png" group-title="Sports",ACC Network
