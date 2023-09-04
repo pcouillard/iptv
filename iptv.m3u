@@ -941,3 +941,45 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8ed58b2
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/611e7811eb9daf000764cbfd/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 #EXTINF:-1 tvg-id="" tvg-logo="http://images.pluto.tv/channels/5f8edad922b10b000753bc37/colorLogoPNG.png" group-title="Français",Dossiers FBI | Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8edad922b10b000753bc37/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+#EXTINF:-1 tvg-id="" tvg-name="DTV | Comedy Dynamics" tvg-logo="s:1:/images/f2yjER7A62ohfxfjlHMD0AYub00MkCRQasrRVS2JQR0coPup1bAzHO3u_udGtttKNHnDY7ZIgVVg39dyhif2Qsw6P4HqBjzvAIK0BRc7_SqNH0jD_D4Sg0BW9FJnIJ60.png" group-title="USA",DTV | Comedy Dynamics
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/105947.ts
+#EXTINF:-1 tvg-id="" tvg-name="DTV | Law & Crime" tvg-logo="s:1:/images/mzCXjwAyF8-qG4BNA7ZIRqrtPEkuhlDv5sYt0D-bXWDzsJE-WQuJofBFLxYhZWT88SpzXWx5DY7ytBWrvW7v6Q.png" group-title="USA",DTV | Law & Crime
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/105954.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CRAVE 1 HD" tvg-logo="https://logo.iptveditor.com/crave1.png" group-title="Canada",CRAVE 1 HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213834.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CRAVE 2 HD" tvg-logo="https://logo.iptveditor.com/crave2.png" group-title="Canada",CRAVE 2 HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213835.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CRAVE 3 HD" tvg-logo="https://logo.iptveditor.com/crave3.png" group-title="Canada",CRAVE 3 HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213836.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: CRAVE 4 HD" tvg-logo="https://logo.iptveditor.com/crave4.png" group-title="Canada",CRAVE 4 HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213837.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: FX HD" tvg-logo="https://logo.iptveditor.com/fx.png" group-title="Canada",FX HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213839.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: FXX" tvg-logo="https://logo.iptveditor.com/fxx.png" group-title="Canada",FXX
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213840.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: HBO 2 HD" tvg-logo="https://logo.iptveditor.com/hbo2.png" group-title="Canada",HBO 2 HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213841.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: HBO HD" tvg-logo="https://logo.iptveditor.com/hbo.png" group-title="Canada",HBO HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213842.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: HOLLYWOOD SUITE 00'S MOVIES" tvg-logo="https://logo.iptveditor.com/hollywoodsuite2000smovies.png" group-title="Canada",HOLLYWOOD SUITE 00'S MOVIES
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213843.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: HOLLYWOOD SUITE 70'S MOVIES" tvg-logo="https://logo.iptveditor.com/hollywoodsuite70smovies.png" group-title="Canada",HOLLYWOOD SUITE 70'S MOVIES
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213844.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: LIFETIME MOVIE NETWORK HD" tvg-logo="https://logo.iptveditor.com/lifetimemovienetwork.png" group-title="Canada",LIFETIME MOVIE NETWORK HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213847.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: MOVIETIME HD" tvg-logo="https://logo.iptveditor.com/movietime.png" group-title="Canada",MOVIETIME HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213849.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: OMNI 1 HD" tvg-logo="https://logo.iptveditor.com/omni1.png" group-title="Canada",OMNI 1 HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213850.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: OMNI 2 HD" tvg-logo="https://logo.iptveditor.com/omni2.png" group-title="Canada",OMNI 2 HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213851.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: STARZ 1" tvg-logo="https://logo.iptveditor.com/starz1.png" group-title="Canada",STARZ 1
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213852.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: STARZ 2" tvg-logo="https://logo.iptveditor.com/starz2.png" group-title="Canada",STARZ 2
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213853.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: SHOWCASE" tvg-logo="https://logo.iptveditor.com/showcase.png" group-title="Canada",SHOWCASE
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213858.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: A&E HD" tvg-logo="https://logo.iptveditor.com/ae.png" group-title="Canada",A&E HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213859.ts
+#EXTINF:-1 tvg-id="" tvg-name="CA: AMC HD" tvg-logo="https://logo.iptveditor.com/amc.png" group-title="Canada",AMC HD
+http://mael-tv.online:8080/live/1a4f83c515fc2d37/e3066e0687139478/213860.ts
