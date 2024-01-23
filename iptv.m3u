@@ -31,7 +31,7 @@ https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8?Canada
 #EXTINF:-1 tvg-id="CBCCBMTMontreal.ca" tvg-name="CBC Montreal CA" tvg-logo="https://i.imgur.com/AeVRfbB.png" group-title="News",CBC Montreal (720p)
 https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
 #EXTINF:-1 tvg-id="CBCNewsExplore.ca" tvg-name="CBC News Explore" tvg-logo="https://thumbnails.cbc.ca/maven_legacy/thumbnails/976/659/Explore-Thumbnail-Gem-16x9.jpg" group-title="News",CBC News Explore
-https://cbcrclive-tor-fast-internal.akamaized.net/hls/live/2095857/prod-gem-cbc-news-explore/hls/master_1280x720_5000k.m3u8
+https://webtelly-streams.akamaized.net/prod-cbc-news-explore-rtp/hls/master_1280x720_6500k.m3u8
 #EXTINF:-1 tvg-id="Scripps News" tvg-name="Scripps News" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple126/v4/64/1b/f6/641bf6e7-a79e-85f5-27d3-9dc322923939/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" group-title="News",Scripps News
 https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8?ad=newsyweb_live
 #EXTINF:0 tvg-id="RakutenTVActionMoviesFrance.es" tvg-country="FR" tvg-logo="https://image.pngaaa.com/380/5477380-middle.png" group-title="Films",RakutenTV-Action
@@ -65,7 +65,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 #EXTINF:0 tvg-id="" tvg-country="UK" tvg-logo="https://images.crunchbase.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1504784285/pbiwodhpixmuavkknwnw.png" group-title="Sports",Tennis Channel 2
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.ftflive.com/wp-content/uploads/2019/06/FTF_White_Marketing_Banner.png" group-title="Sports",FTF Sports
-https://eleven-rebroadcast-samsung.plex.wurl.com/manifest/playlist.m3u8
+https://1199970269.rsc.cdn77.org/FTF/FTF_SCTE_v4.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://www.lejournaldunumerique.com/wp-content/uploads/2012/04/Logo-TRACE-Sports.png" group-title="Sports",Trace Sports
 https://tracesportstars-samsunges.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-country="US" tvg-logo="https://americanselectlacrosse.com/wp-content/uploads/2020/10/LSN.jpg" group-title="Sports",LSN
@@ -786,9 +786,9 @@ https://d387lnkgycbwl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1,SportsGrid
 https://sportsgrid-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sports",L'EQUIPE LIVE 1
-https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/8fd3efae-4468-4ca0-9486-c6cdcb7b65d7/1.m3u8
+https://d3awaj0f2u3w26.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/cb57fa1f-f2f1-4e4d-bdf2-a5d622b75d21/3.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/KXhYwm0/lequipe.png" group-title="Sports",L'EQUIPE LIVE 2
-https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+https://d2l55nvfkhk4sg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/38f6789c-ad49-4769-85fa-d449b4be392e/3.m3u8
 #EXTINF:-1 tvg-logo="https://rndserv.xyz/img/swiss.png" group-title="Français",Swiss Sport
 https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/73/Canalplus_fr_cine_plus_premier_hd.png" group-title="Français",Cine+ Premier
@@ -1043,3 +1043,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now70-fetchtv
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now80-fetchtv-fetchtvau/playlist.m3u8
 #EXTINF:-1,Now Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now90-fetchtv-fetchtvau/playlist.m3u8
+#EXTINF:-1,Euroenews French
+https://euronews-euronews-french-3-fr.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Weather Nation -TCL
+https://weathernation-weathernation-2-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1,Live Now From Fox
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3u8
+#EXTINF:-1,CBC News Canada
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-CBC.m3u8
+#EXTINF:-1,Tubi Originals
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tubi-Originals.m3u8
