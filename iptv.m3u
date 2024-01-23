@@ -1053,3 +1053,9 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Live-Now.m3
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-CBC.m3u8
 #EXTINF:-1,Tubi Originals
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Tubi-Originals.m3u8
+#EXTINF:-1 group-title="News",WCAX-TV - 3 News Now
+http://dai2-playlistserver.aws.syncbak.com/playlist/13627342/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjI3MzQyLCJtZDUiOiJkNDI3NmYwMTJlMTAwNzBhZmE1MzQ5Y2Q3NGJkZDJhZiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.Dsfud-ksBdsOoudnh790ABGOq-x6E2CJCyV_bELOTDg
+#EXTINF:-1 group-title="USA",KCWX Texas - San Antonio
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 group-title="Canada",CPAC
+https://cpac-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
