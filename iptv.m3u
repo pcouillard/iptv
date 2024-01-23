@@ -1037,3 +1037,9 @@ https://nbcu-nbcsouthfloridanews-firetv.amagi.tv/playlist.m3u8
 https://nbcu-nbcsandiegonews-firetv.amagi.tv
 #EXTINF:-1 tvg-id="NBC News" tvg-name="NBC News Connecticut" tvg-logo="https://decider.com/wp-content/uploads/2017/07/nbc-news.jpg" group-title="News",NBC Connecticut News
 https://nbcu-nbcconnecticutnews-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1,Now 70s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now70-fetchtv-fetchtvau/playlist.m3u8
+#EXTINF:-1,Now 80s
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now80-fetchtv-fetchtvau/playlist.m3u8
+#EXTINF:-1,Now Rock
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-now90-fetchtv-fetchtvau/playlist.m3u8
