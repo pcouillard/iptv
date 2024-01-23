@@ -6,10 +6,6 @@
 # * https://bcovlive-a.akamaihd.net/f1fe983d710642b08c2232d4f5e1bb49/us-east-1/6141518204001/profile_0/chunklist.m3u8
 # ********************************************************************************************
 #EXTM3U url-tvg="http://xmltv.bigsb.fr/xmltv.xml"
-#EXTINF:-1 tvg-chno="325" tvg-id="NESN.us" tvg-name="NESN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s35038_dark_360w_270h.png" group-title="Sports",NESN
-http://appleiptv.com:80/1240/1240/27638
-#EXTINF:-1 tvg-chno="326" tvg-id="NESNPlus.us" tvg-name="NESN+" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s63198_dark_360w_270h.png" group-title="Sports",NESN+
-http://appleiptv.com:80/1240/1240/27639
 #EXTINF:0 tvg-id="I723.72976.zap2it.com" tvg-country="CA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/noovo-ca.png" group-title="Québec",Noovo
 https://pe-fa-lp03a.9c9media.com/live/NOOVO/p/hls/00000201/716cf4c845225692/manifest.m3u8
 #EXTINF:0 tvg-id="I734.58759.zap2it.com" tvg-country="CA" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tva-ca.png" group-title="Québec",TVA
